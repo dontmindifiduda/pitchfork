@@ -1,0 +1,1824 @@
+index,reviewid,artist,title,score,author
+0,22061,brian eno,another green world,10.0,mike powell
+1,13434,the beatles,revolver,10.0,scott plagenhoef
+2,21092,van morrison,astral weeks,10.0,stephen thomas erlewine
+3,21218,a tribe called quest,peoples instinctive travels and the paths of rhythm,10.0,kris ex
+4,21158,john coltrane,a love supreme the complete masters,10.0,mark richardson
+5,13449,the stone roses,the stone roses,10.0,amy granzin
+6,14880,kanye west,my beautiful dark twisted fantasy,10.0,ryan dombal
+7,13432,the beatles,the beatles,10.0,mark richardson
+8,13431,the beatles,abbey road,10.0,mark richardson
+9,14979,the dismemberment plan,emergency and i,10.0,paul thompson
+10,1550,john coltrane,the olatunji concert the last live recording,10.0,luke buckman
+11,13433,the beatles,rubber soul,10.0,scott plagenhoef
+12,13435,the beatles,sgt peppers lonely hearts club band,10.0,scott plagenhoef
+13,11376,otis redding,otis blue otis redding sings soul,10.0,nate patrin
+14,13436,the beatles,magical mystery tour,10.0,scott plagenhoef
+15,21478,david bowie,low,10.0,laura snapes
+16,21487,david bowie,heroes,10.0,ryan dombal
+17,909,glenn branca,the ascension,10.0,andy beta
+18,13425,the beatles,stereo box,10.0,mark richardson
+19,22174,stevie wonder,songs in the key of life,10.0,alan light
+20,1969,various artists,no thanks the 70s punk rebellion,10.0,eric carr
+21,16075,can,tago mago,10.0,douglas wolk
+22,21548,michael jackson,off the wall,10.0,ryan dombal
+23,13385,radiohead,kid a special collectors edition,10.0,rob mitchum
+24,21220,the velvet underground,loaded re loaded 45th anniversary edition,10.0,stuart berman
+25,6200,pavement,crooked rain crooked rain las desert origins,10.0,mark richardson
+26,7728,bruce springsteen,born to run 30th anniversary edition,10.0,mark richardson
+27,20015,the velvet underground,the velvet underground 45th anniversary super deluxe edition,10.0,stuart berman
+28,14288,the cure,disintegration,10.0,nitsuh abebe
+29,14264,the rolling stones,exile on main st,10.0,rob mitchum
+30,699,bonnie prince billy,i see a darkness,10.0,samir khan
+31,10326,sonic youth,daydream nation deluxe edition,10.0,nitsuh abebe
+32,16857,gza,liquid swords chess box deluxe edition,10.0,ian cohen
+33,20483,the rolling stones,sticky fingers,10.0,mark richardson
+34,17064,william basinski,the disintegration loops,10.0,mark richardson
+35,14002,pavement,quarantine the past,10.0,matthew perpetua
+36,13984,spiritualized,ladies and gentlemen we are floating in space,10.0,grayson currin
+37,17407,dangelo,voodoo,10.0,ryan dombal
+38,22159,nina simone,in concert,10.0,carvell wallace
+39,11624,joy division,unknown pleasures,10.0,joshua klein
+40,17510,j dilla,donuts,10.0,nate patrin
+41,6656,radiohead,kid a,10.0,brent dicrescenzo
+42,22374,public image ltd,metal box,10.0,simon reynolds
+43,17497,nas,illmatic,10.0,jeff weiss
+44,19997,public enemy,it takes a nation of millions to hold us back,10.0,craig jenkins
+45,22485,bob dylan,blood on the tracks,10.0,jesse jarnow
+46,17499,fleetwood mac,rumours,10.0,jessica hopper
+47,16605,my bloody valentine,isnt anything,10.0,mark richardson
+48,11853,television,marquee moon,10.0,chris dahlen
+49,1490,the clash,london calling 25th anniversary legacy edition,10.0,amanda petrusich
+50,22053,neil young,tonights the night,10.0,mark richardson
+51,19240,mobb deep,the infamous,10.0,jayson greene
+52,12671,beastie boys,pauls boutique,10.0,nate patrin
+53,2377,dj shadow,endtroducing,10.0,chris dahlen
+54,15957,talk talk,laughing stock,10.0,jess harvell
+55,21845,prince,sign o the times,10.0,nelson george
+56,19182,slint,spiderland,10.0,stuart berman
+57,838,boards of canada,music has the right to children,10.0,mark richardson
+58,12852,serge gainsbourg,histoire de melody nelson,10.0,tom ewing
+59,21866,prince,dirty mind,10.0,barry walters
+60,21841,prince,purple rain,10.0,carvell wallace
+61,16000,the beach boys,the smile sessions,10.0,mark richardson
+62,178,and you will know us by the trail of dead,source tags and codes,10.0,matt lemay
+63,18517,nirvana,in utero 20th anniversary edition,10.0,stuart berman
+64,11866,wire,pink flag,10.0,joe tangari
+65,21842,prince,1999,10.0,maura johnston
+66,15854,nirvana,nevermind,10.0,jess harvell
+67,21964,kate bush,hounds of love,10.0,barry walters
+68,5758,neutral milk hotel,in the aeroplane over the sea,10.0,mark richardson
+69,8676,wilco,yankee hotel foxtrot,10.0,brent s. sirota
+70,976,james brown,live at the apollo,10.0,dominique leone
+71,12464,rem,murmur,10.0,stephen m. deusner
+72,6307,pink floyd,animals,10.0,james p. wisdom
+73,13130,rem,reckoning,10.0,matt lemay
+74,18770,the velvet underground,white light white heat,10.0,douglas wolk
+75,1615,elvis costello and the attractions,this years model,10.0,matt lemay
+76,10544,various artists,the complete motown singles vol 7 1967,9.9,joe tangari
+77,3089,funkadelic,motor city madness the ultimate funkadelic compilation,9.8,dominique leone
+78,11662,mission of burma,signals calls and marches,9.8,marc masters
+79,1973,various artists,one kiss can lead to another,9.8,scott plagenhoef
+80,5358,modest mouse,the moon and antarctica,9.8,brent dicrescenzo
+81,1617,elvis costello,my aim is true,9.8,matt lemay
+82,14737,morrissey,bona drag,9.8,scott plagenhoef
+83,11845,t rex,the slider,9.8,stephen m. deusner
+84,4929,luomo,vocalcity,9.7,philip sherburne
+85,5569,ennio morricone,mondo morricone the trilogy,9.7,alex linhardt
+86,5754,neu,neu,9.7,brent s. sirota
+87,11791,nwa,straight outta compton,9.7,ray suzuki
+88,12331,johnny cash,johnny cash at folsom prison legacy edition,9.7,stephen m. deusner
+89,9404,rem,and i feel fine,9.7,stephen m. deusner
+90,8383,ultramagnetic mcs,critical beatdown,9.7,alex linhardt
+91,13422,the beatles,a hard days night,9.7,tom ewing
+92,452,arcade fire,funeral,9.7,david moore
+93,5208,mekons,fear and whiskey,9.7,chris dahlen
+94,8659,keith fullerton whitman,playthroughs,9.7,mark richardson
+95,9552,various artists,the complete motown singles vol 5 1965,9.7,joe tangari
+96,12058,blondie,parallel lines deluxe edition,9.7,scott plagenhoef
+97,1059,the byrds,sweetheart of the rodeo,9.7,alexander lloyd linhardt
+98,12518,animal collective,merriweather post pavilion,9.6,mark richardson
+99,11901,leonard cohen,songs of leonard cohen,9.6,brian howe
+100,2979,the fall,hex enduction hour,9.6,david raposa
+101,6316,pixies,complete b sides,9.6,ryan kearney
+102,4014,billie holiday,the ultimate collection,9.6,mark richardson
+103,5461,mouse on mars,idiology,9.6,mark richard-san
+104,3272,the fiery furnaces,blueberry boat,9.6,chris dahlen
+105,2338,the dismemberment plan,emergency and i,9.6,brent dicrescenzo
+106,11882,the jesus and mary chain,psychocandy,9.6,nitsuh abebe
+107,6683,ramones,weird tales of the ramones,9.6,stephen m. deusner
+108,20017,yo la tengo,extra painful,9.6,stuart berman
+109,11921,liz phair,exile in guyville,9.6,chris dahlen
+110,8608,ween,god ween satan the oneness,9.6,matt lemay
+111,4123,iran,iran,9.6,brent s. sirota
+112,17253,kendrick lamar,good kid maad city,9.5,jayson greene
+113,11667,the beach boys,smiley smile,9.5,spencer owen
+114,13443,the beatles,rock band,9.5,chris dahlen
+115,13419,the beatles,please please me,9.5,tom ewing
+116,1997,various artists,tropiclia a brazilian revolution in sound,9.5,joe tangari
+117,8742,the wrens,the meadowlands,9.5,ryan schreiber
+118,22506,minutemen,double nickels on the dime,9.5,marc masters
+119,2199,miles davis,the complete in a silent way sessions,9.5,dominique leone
+120,22348,big star,complete third,9.5,stephen thomas erlewine
+121,13407,radiohead,amnesiac special collectors edition,9.5,scott plagenhoef
+122,8768,kanye west,late registration,9.5,sean fennessey
+123,11868,neil young,on the beach,9.5,rob mitchum
+124,18172,kanye west,yeezus,9.5,ryan dombal
+125,14083,galaxie 500,today,9.5,mark richardson
+126,2039,various artists,goodbye babylon,9.5,andrew bryant
+127,2002,various artists,the funky 16 corners,9.5,jason nickey
+128,8562,tom waits,mule variations,9.5,zach hooker
+129,2197,miles davis,live at the fillmore east  its about that time,9.5,dominique leone
+130,2993,farben,textstar,9.5,mark richard-san
+131,17324,interpol,turn on the bright lights the tenth anniversary edition,9.5,matt lemay
+132,4113,interpol,turn on the bright lights,9.5,eric carr
+133,3026,morton feldman ives ensemble,morton feldman string quartet (ii),9.5,chris dahlen
+134,7791,slowdive,catch the breeze,9.5,nitsuh abebe
+135,8763,scott walker,5 easy pieces,9.5,scott plagenhoef
+136,1478,circulatory system,circulatory system,9.5,matt lemay
+137,4457,the kinks,the village green preservation society,9.5,j.h. tompkins
+138,13742,kraftwerk,the catalogue,9.5,tom ewing
+139,11257,chuck berry,johnny b goode his complete 50s chess recordings,9.5,joshua klein
+140,3597,guided by voices,human amusement at hourly rates the best of guided by voices,9.5,matt lemay
+141,14890,nine inch nails,pretty hate machine,9.5,tom breihan
+142,1271,can,box music,9.5,brent s. sirota
+143,22642,leonard cohen,im your man,9.5,dorian lynskey
+144,16859,frank ocean,channel orange,9.5,ryan dombal
+146,16160,neutral milk hotel,box set,9.5,mark richardson
+147,22555,gas,box,9.5,andy beta
+148,10161,sly and the family stone,the collection,9.5,jess harvell
+149,22035,lauryn hill,the miseducation of lauryn hill,9.5,carvell wallace
+150,14687,david bowie,station to station,9.5,stuart berman
+151,15959,john fahey,your past comes back to haunt you the fonotone years,9.5,grayson currin
+152,22561,ice cube,death certificate,9.5,eric harvey
+153,7903,t rex,electric warrior,9.5,brian james
+154,574,basement jaxx,the singles,9.5,jess harvell
+155,14623,miles davis,bitches brew,9.5,mark richardson
+156,9356,john cale,paris 1919,9.5,matthew murphy
+157,1621,elvis costello and the attractions,armed forces,9.5,matt lemay
+158,385,the avalanches,since i left you,9.5,matt lemay
+159,8347,underworld,king of snake eps,9.5,paul cooper
+160,16022,u2,achtung baby,9.5,ryan dombal
+161,15069,ride,nowhere,9.5,david bevan
+162,15679,marvin gaye,whats going on,9.5,ryan dombal
+163,14869,bruce springsteen,the promise the darkness on the edge of town story,9.5,mark richardson
+164,3389,gang of four,entertainment,9.5,jess harvell
+165,16810,roxy music,the complete studio records 1972 1982,9.5,tom ewing
+166,5099,roots manuva,brand new second hand,9.5,paul cooper
+167,15551,bon iver,bon iver bon iver,9.5,mark richardson
+168,7277,patti smith,horses,9.4,chris dahlen
+169,9616,joanna newsom,ys,9.4,chris dahlen
+170,6502,public enemy,power to the people and the beats,9.4,sean fennessey
+171,3035,fennesz,endless summer,9.4,mark richard-san
+172,13168,blur,midlife a beginners guide to blur,9.4,scott plagenhoef
+173,2345,dizzee rascal,boy in da corner,9.4,scott plagenhoef
+174,5983,the olivia tremor control,dusk at cubist castle,9.4,matt lemay
+175,11676,the replacements,sorry ma forgot to take out the trash,9.4,mark richardson
+176,8677,wilco,summerteeth,9.4,neil lieberman
+177,9514,chavez,better days will haunt you,9.4,matt lemay
+178,9371,the beach boys,pet sounds 40th anniversary,9.4,dominique leone
+179,5887,harry nilsson,nilsson schmilsson,9.4,andy beta
+180,11203,various artists,the complete motown singles vol 9 1969,9.4,joe tangari
+181,14330,refused,the shape of punk to come a chimerical bombination in 12 bursts,9.4,tom breihan
+182,9760,fennesz,endless summer,9.4,mark richardson
+183,7151,sigur ros,Ágaetis byrjun,9.4,brent dicrescenzo
+184,20078,dangelo the vanguard,black messiah,9.4,craig jenkins
+185,9701,bob wills and his texas playboys,legends of country music,9.4,stephen m. deusner
+186,9474,the hold steady,boys and girls in america,9.4,scott plagenhoef
+187,15197,simon and garfunkel,bridge over troubled water,9.4,stephen m. deusner
+188,16032,rem,part lies part heart part truth part garbage 1982 2011,9.4,matthew perpetua
+189,22255,caetano veloso,caetano veloso,9.4,andy beta
+190,8435,the velvet underground,bootleg series vol 1 the quine tapes,9.4,luke buckman
+191,10728,faust,iv,9.4,dominique leone
+192,7089,shalabi effect,the trial of st orange,9.4,david m. pecoraro
+193,1544,ornette coleman,this is our music,9.4,mark richard-san
+194,2201,miles davis,the cellar door sessions 1970,9.4,dominique leone
+195,22045,erykah badu,mamas gun,9.4,daphne a. brooks
+196,577,william basinski,the disintegration loops i iv,9.4,joe tangari
+197,223,aphex twin,selected ambient works 85 92,9.4,david m. pecoraro
+198,5579,madvillain,madvillainy,9.4,rollie pemberton & nick sylvester
+199,22132,the roots,things fall apart,9.4,marcus j. moore
+200,15814,disco inferno,the 5 eps,9.4,jess harvell
+201,10025,panda bear,person pitch,9.4,mark richardson
+202,9063,various artists,the complete motown singles vol 4 1964,9.4,joe tangari
+203,8321,ziq,tango n vectif,9.4,malcolm seymour iii
+204,10643,pink floyd,the piper at the gates of dawn,9.4,joshua klein
+205,8224,two lone swordsmen,stay down,9.3,paul cooper
+206,22308,randy newman,good old boys,9.3,winston cook-wilson
+207,13424,the beatles,beatles for sale,9.3,tom ewing
+208,2976,the fall,50000 fall fans cant be wrong,9.3,alex linhardt
+209,15811,girls,father son holy ghost,9.3,mark richardson
+210,22643,bob dylan,bob dylan the 1966 live recordings,9.3,jesse jarnow
+211,15393,mercury rev,deserters songs,9.3,stuart berman
+212,11352,the microphones,the glow pt 2,9.3,brian howe
+213,2556,disco inferno,di go pop,9.3,scott plagenhoef
+214,9441,various artists,american hardcore the history of american punk rock 1980 1986,9.3,zach baron
+215,1991,various artists,in the beginning there was rhythm,9.3,chris dahlen
+216,12418,new order,movement,9.3,tom ewing
+217,1014,built to spill,keep it like a secret,9.3,jason josephes
+218,8436,the velvet underground,gold,9.3,mark richardson
+219,8080,to rococo rot,the amateur view,9.3,ryan schreiber
+220,12091,willie nelson,stardust legacy edition,9.3,stephen m. deusner
+221,7053,sebadoh,iii,9.3,brandon stosuy
+222,2573,dungen,ta det lugnt,9.3,brandon stosuy
+223,2397,dntel,life is full of possibilities,9.3,paul cooper
+224,7284,smog,dongs of sevotion,9.3,matt lemay
+225,2978,the fall,the complete peel sessions 1978 2004,9.3,joe tangari
+226,803,olivia block,mobius fuse,9.3,david m. pecoraro
+227,1513,clinic,internal wrangler,9.3,matt lemay
+228,4961,loretta lynn,van lear rose,9.3,stephen deusner
+229,17963,vampire weekend,modern vampires of the city,9.3,ryan dombal
+230,6180,prson sound,prson sound,9.3,luke buckman
+231,11813,the red krayola,the parable of arable land,9.3,alex linhardt
+232,8959,the zombies,odessey and oracle,9.3,liam singer
+233,9591,pavement,wowee zowee sordid sentinels edition,9.3,mark richardson
+234,787,blackalicious,blazing arrow,9.3,chris dahlen
+235,4234,jan jelinek,loop finding jazz records,9.3,mark richard-san
+236,22703,massive attack,mezzanine,9.3,nate patrin
+237,1750,current 93,thunder perfect mind,9.3,brandon stosuy
+238,10650,animal collective,strawberry jam,9.3,mark richardson
+239,17389,the smashing pumpkins,mellon collie and the infinite sadness,9.3,ian cohen
+240,4114,interpol,interpol,9.3,eric carr
+241,13732,jawbox,for your own special sweetheart,9.3,matt lemay
+242,10785,radiohead,in rainbows,9.3,mark pytlik
+243,2501,bob dylan,no direction home the soundtrack the bootleg series vol 7,9.3,amanda petrusich
+244,13654,u2,the unforgettable fire,9.3,ryan dombal
+245,8223,two lone swordsmen,tiny reminders,9.3,paul cooper
+246,21096,built to spill,theres nothing wrong with love,9.3,mark richardson
+247,7803,the slits,cut,9.3,david raposa
+248,20578,tame impala,currents,9.3,ian cohen
+249,11183,nick lowe,jesus of cool,9.3,matt lemay
+250,2575,dungen,ta det lugnt,9.3,brandon stosuy
+251,20390,kendrick lamar,to pimp a butterfly,9.3,craig jenkins
+252,10527,young marble giants,colossal youth and collected works,9.3,douglas wolk
+253,11649,albert ayler,spiritual unity,9.3,mark richardson
+254,20218,sufjan stevens,carrie and lowell,9.3,brandon stosuy
+255,20458,jamie xx,in colour,9.3,mark richardson
+256,22054,pulp,different class,9.3,simon reynolds
+257,6119,orange juice,the glasgow school,9.3,scott plagenhoef
+258,5160,max tundra,mastered by guy at the exchange,9.3,chris dahlen
+259,17283,godspeed you black emperor,allelujah dont bend ascend,9.3,mark richardson
+260,13444,big star,keep an eye on the sky,9.3,stephen m. deusner
+261,5845,the notwist,neon golden,9.2,luke buckman
+262,5159,max tundra,some best friend you turned out to be,9.2,matt lemay
+263,11600,mogwai,young team,9.2,stuart berman
+264,13159,dirty projectors,bitte orca,9.2,paul thompson
+265,3602,guided by voices,propeller,9.2,stephen m. deusner
+266,4187,jackie o motherfucker,fig 5,9.2,brent s. sirota
+267,19423,various artists,c86,9.2,jason heller
+268,18860,sun kil moon,benji,9.2,ian cohen
+269,8266,talking heads,the name of this band is talking heads,9.2,scott plagenhoef
+270,13960,joanna newsom,have one on me,9.2,mark richardson
+271,9134,gram parsons,the reprise sessions,9.2,stephen m. deusner
+272,22283,manuel gttsching,e2 e4,9.2,mark richardson
+273,11981,sebadoh,bubble and scrape deluxe edition,9.2,amy granzin
+274,22292,guided by voices,alien lanes,9.2,steven hyden
+275,19326,swans,to be kind,9.2,stuart berman
+276,21924,fleetwood mac,tusk,9.2,amanda petrusich
+277,9155,various artists,rockin bones 1950s punk and rockabilly,9.2,amanda petrusich
+278,12360,deerhunter,microcastle   weird era cont,9.2,marc hogan
+279,12905,the monks,black monk time,9.2,joe tangari
+280,14424,big boi,sir lucious left foot the son of chico dusty,9.2,tom breihan
+281,10645,the modern lovers,the modern lovers,9.2,joshua klein
+282,5006,m83,dead cities red seas and lost ghosts,9.2,matt lemay
+283,12246,tv on the radio,dear science,9.2,chris dahlen
+284,18667,arcade fire,reflektor,9.2,lindsay zoladz
+285,8794,wolf parade,apologies to the queen mary,9.2,brandon stosuy
+286,19418,led zeppelin,led zeppelin,9.2,mark richardson
+287,1242,califone,califone,9.2,mark richard-san
+289,9894,various artists,london is the place for me 4,9.2,dave stelfox
+290,13233,isaac hayes,hot buttered soul,9.2,nate patrin
+291,6465,pretty girls make graves,good health,9.2,kevin adickes
+292,13668,various artists,warp20,9.2,scott plagenhoef
+293,5269,the microphones,the glow pt 2,9.2,matt lemay
+294,19860,sleater kinney,start together,9.2,jenn pelly
+295,14257,lcd soundsystem,this is happening,9.2,ryan dombal
+296,13428,the beatles,help,9.2,tom ewing
+297,22131,pj harvey,dry,9.2,laura snapes
+298,19906,underworld,dubnobasswithmyheadman,9.2,nick neyland
+299,12516,nina simone,to be free the nina simone story,9.2,chris dahlen
+300,17841,half japanese,gentlemen   not beasts,9.2,marc masters
+301,952,broken social scene,you forgot it in people,9.2,ryan schreiber
+302,7514,sufjan stevens,illinois,9.2,amanda petrusich
+303,8572,the walkmen,bows and arrows,9.2,eric carr
+304,13408,the beatles,past masters,9.2,douglas wolk
+305,5268,the microphones,it was hot we stayed in the water,9.2,matt lemay
+306,9431,missy elliott,respect me,9.2,jess harvell
+307,11449,no age,nouns,9.2,amanda petrusich
+308,9900,various artists,ultimate breaks and beats the complete collection,9.2,nate patrin
+309,11582,gas,nah und fern,9.2,mark richardson
+310,5883,non prophets,hope,9.2,rollie pemberton
+311,18154,digable planets,blowout comb,9.2,mark richardson
+312,10017,lcd soundsystem,sound of silver,9.2,mark pytlik
+313,10901,miles davis,the complete on the corner sessions,9.2,dominique leone
+314,9302,tortoise,a lazarus taxon,9.2,jess harvell
+315,16651,paul mccartney linda mccartney,ram,9.2,jayson greene
+316,637,belle and sebastian,push barman to open old wounds,9.2,scott plagenhoef
+317,16843,paul simon,graceland 25th anniversary edition,9.2,joe tangari
+318,14681,deerhunter,halcyon digest,9.2,marc hogan
+319,8114,tortoise,standards,9.2,matt lemay
+320,10970,various artists,the complete motown singles vol 8 1968,9.2,joe tangari
+321,10747,various artists,the very best of ethiopiques hypnotic grooves from the legendary series,9.2,joe tangari
+322,2066,various artists,the complete motown singles vol 3 1963,9.2,joe tangari
+323,9957,nico,the frozen borderline 1968 1970,9.2,marc masters
+325,22043,de la soul,buhloone mindstate,9.1,andrew nosnitsky
+326,22343,neil young,time fades away,9.1,rob mitchum
+327,11855,13th floor elevators,the psychedelic sounds of,9.1,stephen m. deusner
+328,21909,chance the rapper,coloring book,9.1,kris ex
+329,2065,various artists,the complete motown singles vol 2 1962,9.1,joe tangari
+330,8664,keith fullerton whitman,multiples,9.1,mark richardson
+331,8373,us maple,acre thrills,9.1,spencer owen
+332,22039,suicide,suicide,9.1,marc masters
+333,7537,the strokes,is this it,9.1,ryan schreiber
+334,21279,the flaming lips,heady nuggs 20 years after clouds taste metallic,9.1,stuart berman
+335,9658,clipse,hell hath no fury,9.1,sean fennessey
+336,11269,hercules and love affair,hercules and love affair,9.1,philip sherburne
+337,19890,jawbreaker,24 hour revenge therapy,9.1,brandon stosuy
+338,2054,various artists,trax records 20th anniversary collection,9.1,scott plagenhoef
+339,11680,mudhoney,superfuzz bigmuff deluxe edition,9.1,marc masters
+340,5502,mm,yesterday was dramatic today is ok,9.1,matt lemay
+341,1947,various artists,xen cuts,9.1,mark richard-san
+342,19834,led zeppelin,led zeppelin iv,9.1,mark richardson
+343,19257,the clientele,suburban light,9.1,mark richardson
+344,21907,radiohead,a moon shaped pool,9.1,jayson greene
+345,5982,the olivia tremor control,black foliage animation music vol 1,9.1,mark richard-san
+346,9177,tv on the radio,return to cookie mountain,9.1,chris dahlen
+347,12081,basic channel,bcd 2,9.1,philip sherburne
+348,22212,terry riley,a rainbow in curved air,9.1,seth colter walls
+349,21714,jay reatard,blood visions,9.1,evan minsker
+350,2703,mark eitzel,the invisible man,9.1,joe tangari
+351,21844,prince,parade,9.1,douglas wolk
+352,10225,battles,mirrored,9.1,jess harvell
+353,10594,various artists,wattstax: the living word,9.1,nate patrin
+354,19090,unwound,rat conspiracy,9.1,jason heller
+355,8082,amon tobin,supermodified,9.1,taylor m. clark
+356,2642,danielson famile,ships,9.1,ryan schreiber
+357,2771,eminem,the eminem show,9.1,ethan p.
+358,7237,sleater kinney,one beat,9.1,rob mitchum
+359,831,blur,13,9.1,brent dicrescenzo
+360,519,bad brains,banned in dc bad brains greatest riffs,9.1,eric carr
+361,638,belle and sebastian,if youre feeling sinister live at the barbican,9.1,scott plagenhoef
+362,1408,rhys chatham,an angel moves too fast to see selected works 1971 1989,9.1,andy beta
+363,3265,frog eyes,the golden river,9.1,matt lemay
+364,4752,les savy fav,inches,9.1,matt lemay
+365,16604,beach house,bloom,9.1,lindsay zoladz
+366,685,the bevis frond,new river head,9.1,brandon stosuy
+367,2500,bob dylan,the bootleg series vol 6 live 1964 concert at philharmonic hall,9.1,amanda petrusich
+368,17726,my bloody valentine,m b v,9.1,mark richardson
+369,16047,olivia tremor control,dusk at cubist castle,9.1,paul thompson
+370,3279,franz ferdinand,franz ferdinand,9.1,brent dicrescenzo
+371,8267,talking heads,talking heads brick,9.1,joe tangari
+372,18091,disclosure,settle,9.1,larry fitzmaurice
+373,4549,talib kweli,quality,9.1,sam chennault
+374,1495,clearlake,cedars,9.1,brent dicrescenzo
+375,13477,girls,album,9.1,tom breihan
+376,7628,supersilent,6,9.1,chris dahlen
+377,8650,the white stripes,de stijl,9.1,william bowers
+378,14821,bob dylan,the bootleg series vol 9 the witmark demos 1962 1964,9.1,joshua love
+379,13403,the feelies,crazy rhythms,9.1,mike powell
+380,15881,m83,hurry up were dreaming,9.1,ian cohen
+381,13430,the beatles,let it be,9.1,mark richardson
+382,8514,viktor vaughn,vaudeville villain,9.1,rollie pemberton
+383,6487,the prodigy,their law the singles,9.1,jess harvell
+384,6449,prefuse 73,one word extinguisher,9.1,jascha hoffman
+385,573,basement jaxx,kish kash,9.1,scott plagenhoef
+386,5463,mouse on mars,glam,9.1,mark richardson
+387,2001,various artists,peanut butter wolfs jukebox 45s,9.1,sam chennault
+388,17037,grizzly bear,shields,9.1,lindsay zoladz
+389,7533,the streets,a grand dont come for free,9.1,scott plagenhoef
+390,2007,various artists,tigerbeat inc disc 1,9.0,ryan schreiber
+391,21175,sun city girls,torch of the mystics,9.0,marc masters
+392,19968,run the jewels,run the jewels 2,9.0,ian cohen
+393,5041,the magnetic fields,69 love songs,9.0,nick mirov
+394,11691,blue cheer,vincebus eruptum,9.0,alexander lloyd linhardt
+395,16532,bright eyes,fevers and mirrors,9.0,ian cohen
+396,13617,fuck buttons,tarot sport,9.0,joe colly
+397,16524,opeth,blackwater park,9.0,ned raggett
+398,7343,sonic youth,murray street,9.0,rob mitchum
+399,2967,the fall,totally wired the rough trade anthology,9.0,joe tangari
+400,9777,gang starr,mass appeal the best of gang starr,9.0,tom breihan
+401,11894,various artists,how low can you go,9.0,amanda petrusich
+402,8651,the white stripes,white blood cells,9.0,dan kilian & ryan schreiber
+403,1135,vashti bunyan,just another diamond day,9.0,matthew murphy
+404,10313,the clash,the singles,9.0,amanda petrusich
+405,4767,liars,drums not dead,9.0,brandon stosuy
+406,5575,mission of burma,a gun to the head a selection from the ace of hearts era,9.0,brian howe
+407,6106,optimo,how to kill the dj,9.0,mark richardson
+408,11326,carl craig,sessions,9.0,andy battaglia
+409,6397,polysics,hey bob my friend,9.0,brent s. sirota
+410,6059,out hud,street dad,9.0,eric carr
+411,2522,dexys midnight runners,lets make this precious the best of dexys midnight runners,9.0,scott plagenhoef
+412,9623,karen dalton,in my own time,9.0,stephen m. deusner
+413,14797,robert wyatt,rock bottom,9.0,douglas wolk
+414,1582,tony conrad faust,outside the dream syndicate,9.0,brent s. sirota
+415,17131,tame impala,lonerism,9.0,ian cohen
+416,11738,faust,faust,9.0,dominique leone
+417,5142,mastodon,remission,9.0,brad haywood
+418,20545,various artists,frankie knuckles house masters,9.0,david drake
+419,14324,ariel pinks haunted graffiti,before today,9.0,mark richardson
+420,16964,swans,the seer,9.0,mike powell
+421,21022,deafheaven,new bermuda,9.0,jayson greene
+422,13522,the flaming lips,embryonic,9.0,stuart berman
+423,13762,elvis presley,elvis 75 good rockin tonight,9.0,mark richardson
+424,11739,funkadelic,funkadelic,9.0,dominique leone
+425,16765,van dyke parks,song cycle,9.0,jayson greene
+426,10022,the field,from here we go sublime,9.0,jess harvell
+427,2064,various artists,the complete motown singles vol 1 59 61,9.0,joe tangari
+428,3637,ghostface killah,fishscale,9.0,ryan dombal
+429,16732,fiona apple,the idler wheel is wiser than the driver of the screw and whipping cords will serve you more than ropes will ever do,9.0,ryan dombal
+430,3489,godspeed you black emperor,lift your skinny fists like antennas to heaven,9.0,brent s. sirota
+431,22569,otis redding,live at the whisky a go go,9.0,stephen thomas erlewine
+432,10636,various artists,from dubplate to download the best of greensleeves records,9.0,jess harvell
+433,13678,mulatu astatke,new york addis london the story of ethio jazz 1965 1975,9.0,joe tangari
+434,10716,culture,two sevens clash the 30th anniversary edition,9.0,mike powell
+435,6693,the rapture,echoes,9.0,ryan schreiber
+436,6659,radiohead,amnesiac,9.0,ryan schreiber
+437,10777,billie holiday,lady day the master takes and singles,9.0,mark richardson
+438,17384,massive attack,blue lines,9.0,miles raymer
+439,20200,lead belly,lead belly the smithsonian folkways collection,9.0,stephen m. deusner
+440,13872,beach house,teen dream,9.0,mark richardson
+441,16664,pauline oliveros,reverberations tape and electronic music 1961 1970,9.0,brian howe
+442,6013,ooioo,feather float,9.0,spencer owen
+443,10620,jens lekman,night falls over kortedala,9.0,marc hogan
+444,351,auburn lull,alone i admire,9.0,christopher dare
+445,22607,a tribe called quest,we got it from here thank you 4 your service,9.0,kris ex
+446,21328,primal scream,screamadelica,9.0,tom ewing
+447,7040,the sea and cake,oui,9.0,brent s. sirota
+448,20056,william onyeabor,box set,9.0,andy beta
+449,193,animal collective,feels,9.0,mark richardson
+450,10983,various artists,the big stiff box set,9.0,stephen m. deusner
+451,854,the books,thought for food,9.0,mark richard-san
+452,36,ryan adams,heartbreaker,9.0,steven byrd
+453,17676,miles davis,the bootleg series volume 2 live in europe 1969,9.0,hank shteamer
+454,5561,mu,afro finger and gel,9.0,andy beta
+455,2032,various artists,dfa compilation 2,9.0,nick sylvester
+456,6975,saint etienne,travel edition 1990 2004,9.0,scott plagenhoef
+458,17129,the velvet underground,the velvet underground and nico 45th anniversary,9.0,miles raymer
+459,19222,grace jones,nightclubbing,9.0,andy beta
+460,21843,prince,controversy,9.0,daphne a. brooks
+461,12260,u2,under a blood red sky,9.0,scott plagenhoef
+462,18586,darkside,psychic,9.0,ian cohen
+463,1811,clap your hands say yeah,clap your hands say yeah,9.0,brian howe
+464,9158,this heat,out of cold storage,9.0,jess harvell
+465,21797,etta james,at last,9.0,amanda petrusich 
+466,11851,turbonegro,ass cobra,9.0,brandon stosuy
+467,22707,ray charles,swiss radio days vol 41 zurich 1961,9.0,seth colter-walls
+468,1412,the chemical brothers,surrender,9.0,sarah zupko
+469,4557,kraftwerk,minimum maximum,9.0,mark richardson
+470,1333,johnny cash,the legend,9.0,amanda petrusich
+471,12094,various artists,the complete motown singles vol 10 1970,9.0,joe tangari
+472,2106,various artists,ohm the early gurus of electronic music 1948 1980,9.0,dominique leone
+473,22420,bon iver,22 a million,9.0,amanda petrusich
+474,260,the appleseed cast,low level owl vol i and ii,9.0,nathan rooney
+475,22346,steve reich,the ecm recordings,9.0,seth colter walls
+476,8834,xtc,coat of many cupboards,9.0,dominique leone
+477,8781,brian wilson,smile,9.0,dominique leone
+478,18442,sly and the family stone,higher,9.0,nate patrin
+479,7165,a silver mt zion,he has left us alone but shafts of light sometimes grace the corners of our rooms,9.0,matt lemay
+480,6730,redd kross,neurotica,9.0,kyle reiter
+481,2475,the dukes of stratosphear,chips from the chocolate fireball,9.0,jason nickey
+482,3402,gas,pop,9.0,mark richard-san
+483,15887,miles davis,the bootleg series volume 1 live in europe 1967,9.0,hank shteamer
+485,22661,kleenex liliput,first songs,9.0,jenn pelly
+486,18820,burial,rival dealer,9.0,larry fitzmaurice
+487,15688,archers of loaf,icky mettle,9.0,matt lemay
+488,8764,scott walker,the drift,9.0,dominique leone
+489,7569,sunburned hand of the man,headdress,9.0,andrew bryant
+490,6041,jim orourke,im happy and im singing and a 1 2 3 4,9.0,matt lemay
+491,8015,this heat,deceit,9.0,dominique leone
+492,5773,the new pornographers,twin cinema,9.0,rob mitchum
+493,22336,nick cave and the bad seeds,skeleton tree,9.0,stuart berman
+494,18704,songs ohia,the magnolia electric co,9.0,jason heller
+495,21901,ryan adams,heartbreaker,9.0,ian cohen
+496,11742,sage francis,sick of waiting tables,9.0,rollie pemberton
+497,11718,the dbs,stands for decibels repercussion,9.0,chris dahlen
+498,15813,st vincent,strange mercy,9.0,ryan dombal
+499,21819,anohni,hopelessness,9.0,jenn pelly
+500,5816,no neck blues band,sticks and stones may break my bones but words will never hurt me,9.0,david m. pecoraro
+501,828,blur,think tank,9.0,brent dicrescenzo
+502,22327,angelo badalamenti,twin peaks,9.0,seth colter walls
+503,22037,george harrison,all things must pass,9.0,jayson greene
+504,4791,liliput,complete recordings,9.0,sam eccleston
+505,8826,xiu xiu,fabulous muscles,9.0,matt lemay
+506,21542,kanye west,the life of pablo,9.0,jayson greene
+507,2256,deerhoof,the runners four,9.0,nick sylvester
+508,15081,james blake,james blake,9.0,grayson currin
+509,22253,janet jackson,rhythm nation 1814,9.0,julianne escobedo shepherd
+510,17942,the breeders,lsxx,9.0,lindsay zoladz
+511,22295,frank ocean,blonde,9.0,ryan dombal
+512,8564,tom waits,alice and blood money,9.0,william bowers
+513,16115,this mortal coil,hdcd box set,9.0,ned raggett
+514,995,jeff buckley,grace legacy edition,9.0,dominique leone
+515,3832,matthew herbert,secondhand sounds,9.0,mark richard-san
+516,7076,set fire to flames,sings reign rebuilder,9.0,brad haywood
+517,21407,this heat,this heat,9.0,philip sherburne
+518,21477,david bowie,diamond dogs,9.0,barry walters
+519,2091,various artists,new waves,9.0,rob mitchum
+520,7240,sleater kinney,the woods,9.0,stephen m. deusner
+521,11587,fleet foxes,fleet foxes,9.0,stephen m. deusner
+522,2783,enduser,15 tracks,9.0,mark martelli
+523,426,antena,camino del sol,9.0,brent dicrescenzo
+524,1990,various artists,miami sound rare funk and soul from miami florida 1967 1974,9.0,andrew bryant
+525,18288,the mountain goats,all hail west texas,9.0,lindsay zoladz
+526,429,art bears,art box,9.0,dominique leone
+527,8428,caetano veloso,livro,9.0,brent dicrescenzo
+528,13078,grizzly bear,veckatimest,9.0,paul thompson
+529,284,area,revolution,9.0,dominique leone
+530,6930,steve reid,rhythmatism,9.0,jonathan zwickel
+531,4443,king geedorah,take me to your leader,9.0,mark martelli
+532,13019,company flow,funcrusher plus,9.0,nate patrin
+533,2459,drive like jehu,yank crime,9.0,brendan reid
+534,9301,junior boys,so this is goodbye,9.0,mark pytlik
+535,18200,public image ltd,first issue,9.0,stuart berman
+536,8196,tv on the radio,young liars,8.9,eric carr
+537,9824,deerhunter,cryptograms,8.9,marc hogan
+538,1169,alan braxe,the upper cuts,8.9,mark pytlik
+539,11665,the beach boys,sunflower surfs up,8.9,hefner macauley
+540,1535,coldcut,let us replay,8.9,james p. wisdom
+541,7600,super furry animals,phantom power,8.9,brent dicrescenzo
+542,7604,super furry animals,songbook the singles volume one,8.9,marc hogan
+543,9601,various artists,journey into paradise the larry levan story,8.9,tim finney
+544,11903,betty davis,betty davis,8.9,joshua klein
+545,4122,iran,the moon boys,8.9,brandon stosuy
+546,1130,bloc party,silent alarm,8.9,nitsuh abebe
+547,4274,jóhann jóhannsson,englabrn,8.9,andy beta
+548,475,art brut,bang bang rock and roll,8.9,rob mitchum
+549,6305,pinetop seven,bringing home the last great strike,8.9,brent s. sirota
+550,9810,deerhoof,friend opportunity,8.9,chris dahlen
+551,16586,moss icon,complete discography,8.9,hank shteamer
+552,967,peter brtzmann,more nipples,8.9,scott hreha
+553,21708,various artists,music of morocco recorded by paul bowles 1959,8.9,saby reyes-kulkarni
+554,15359,mf doom,operation doomsday,8.9,ian cohen
+555,6455,sam prekop,sam prekop,8.9,ryan schreiber
+556,20728,miguel,wildheart,8.9,anupa mistry
+557,1230,calexico,feast of wire,8.9,joe tangari
+558,14755,dexys midnight runners,searching for the young soul rebels,8.9,tom ewing
+559,7940,animal collective,spirit theyre gone spirit theyve vanished,8.9,brent s. sirota
+560,7949,tarwater,animals suns and atoms,8.9,paul cooper
+561,16862,sugar,copper blue,8.9,eric harvey
+562,2329,dirty three,whatever you love you are,8.9,mark richard-san
+563,835,boards of canada,in a beautiful place out in the country,8.9,paul cooper
+564,5267,the microphones,mount eerie,8.9,eric carr
+565,22310,julius eastman,femenine,8.9,seth colter walls
+566,10490,charles mingus sextet with eric dolphy,cornell 1964,8.9,joe tangari
+567,13462,saint etienne,so tough,8.9,jess harvell
+568,4794,lilys,zero population growth ep bliss out v15,8.9,chip chanko
+569,8430,caetano veloso,antologia 69 03,8.9,liam singer
+570,18060,deafheaven,sunbather,8.9,brandon stosuy
+571,18050,four tet,rounds,8.9,andy beta
+572,19685,the unicorns,who will cut our hair when were gone,8.9,stuart berman
+573,3888,robyn hitchcock,jewels for sophia,8.9,zach hooker
+574,20,acid mothers temple,the new geocentric world of,8.9,luke buckman
+575,11566,various artists,african scream contest raw and psychedelic sounds from benin and togo 70s,8.9,joe tangari
+576,19771,oasis,morning glory,8.9,stuart berman
+577,6907,arthur russell,the world of arthur russell,8.9,andy beta
+578,2712,el p,fantastic damage,8.9,sam chennault
+579,8385,united states of america,united states of america,8.9,cameron macdonald
+580,13739,animal collective,fall be kind,8.9,mark richardson
+581,7598,super furry animals,rings around the world,8.9,brent dicrescenzo
+582,7581,sunn 0))),black one,8.9,brandon stosuy
+583,12880,various artists,the complete motown singles vol 11a 1971,8.9,joe tangari
+584,10953,u2,the joshua tree deluxe edition,8.9,joshua klein
+585,191,animal collective,sung tongs,8.9,dominique leone
+586,4340,junior boys,last exit,8.9,scott plagenhoef
+587,5361,modest mouse,building nothing out of something,8.9,brent dicrescenzo
+588,663,tim berne herb robertson copenhagen art ensemble marc ducret,open coma,8.9,chris dahlen
+589,5437,morrissey,you are the quarry,8.9,brent dicrescenzo
+590,1475,circle,andexelt,8.9,paul cooper
+591,12742,bob wills and his texas playboys,the tiffany transcriptions,8.9,stephen m. deusner
+592,2878,explosions in the sky,those who tell the truth shall die those who tell the truth shall live forever,8.9,kevin adickes
+593,4458,the kinks,muswell hillbillies,8.9,jason josephes
+594,8508,ricardo villalobos,achso,8.9,jess harvell
+595,2833,ellery eskelin,12 imaginary views,8.9,dominique leone
+596,12871,red red meat,bunny gets paid,8.9,mark richardson
+598,11715,various artists,the best of studio one,8.9,joe tangari
+599,11584,nachtmystium,assassins black meddle pt 1,8.9,brandon stosuy
+600,10935,various artists,brazil 70 after tropicalia,8.9,joe tangari
+601,11842,the stooges,the stooges,8.9,joe tangari
+602,411,ellen allien,berlinette,8.9,nitsuh abebe
+603,8380,the unicorns,who will cut our hair when were gone,8.9,eric carr
+604,892,boxhead ensemble,two brothers,8.9,alison fields
+605,7114,the shins,chutes too narrow,8.9,matt lemay
+606,3273,the fiery furnaces,ep,8.9,rob mitchum
+607,239,afx,hangable auto bulb,8.9,mark richardson
+608,10564,mia,kala,8.9,mark pytlik
+609,7428,spoon,kill the moonlight,8.9,eric carr
+610,2265,the delgados,peloton,8.9,sarah zupko
+611,1545,ornette coleman,ornette,8.8,alex linhardt
+612,21656,larry levan,genius of time,8.8,andy beta
+613,16948,david lynch alan splet,eraserhead,8.8,mark richardson
+614,2000,various artists,ghana soundz afrobeat funk and fusion in 70s ghana,8.8,joe tangari
+615,15175,scritti politti,absolute,8.8,tom ewing
+616,16806,dirty projectors,swing lo magellan,8.8,grayson currin
+617,15950,dntel,life is full of possibilities,8.8,matt lemay
+618,3834,matthew herbert,bodily functions,8.8,paul cooper
+619,12881,various artists,nigeria 70 funky lagos,8.8,nate patrin
+620,576,william basinski,the river,8.8,andy beta
+621,10270,the afghan whigs,unbreakable,8.8,stephen m. deusner
+622,15321,tune yards,w h o k i l l,8.8,matthew perpetua
+623,2691,ekkehard ehlers,plays,8.8,mark richardson
+624,8429,caetano veloso,a foreign sound,8.8,stephen m. deusner
+625,4707,led zeppelin,how the west was won,8.8,dominique leone
+626,4646,lali puna,scary world theory,8.8,paul cooper
+627,1543,andrew coleman,everything was beautiful and nothing hurt,8.8,paul cooper
+628,7143,sightings,michigan haters,8.8,andrew bryant
+629,18190,townes van zandt,high low and in between,8.8,stephen m. deusner
+630,19258,oasis,definitely maybe chasing the sun edition,8.8,ryan dombal
+631,2272,deltron 3030,deltron 3030,8.8,sam eccleston
+632,16031,oneohtrix point never,replica,8.8,mark richardson
+633,16564,japandroids,celebration rock,8.8,ian cohen
+634,1088,birdtree,orchards and caravans,8.8,brandon stosuy
+635,19079,miles davis,miles at the fillmore miles davis 1970 the bootleg series vol 3,8.8,mark richardson
+636,20719,vince staples,summertime 06,8.8,jayson greene
+637,18821,beyonc,beyonc,8.8,carrie battan
+638,7117,matthew shipp,new orbit,8.8,matt lemay
+639,14198,flying lotus,cosmogramma,8.8,joe colly
+640,12427,prurient,arrowhead,8.8,grayson currin
+641,2875,the exploding hearts,guitar romantic,8.8,matt lemay
+642,21896,david bowie,changesonebowie,8.8,stephen thomas erlewine
+643,15625,rem,lifes rich pageant,8.8,stephen m. deusner
+644,15570,shabazz palaces,black up,8.8,eric grandy
+645,5898,ac newman,the slow wonder,8.8,brandon stosuy
+646,9072,matthew herbert,scale,8.8,jess harvell
+647,168,amon dl ii,tanz der lemminge,8.8,dominique leone
+648,12371,dj  rupture,uproot,8.8,mark pytlik
+649,17243,royal trux,accelerator,8.8,stuart berman
+650,5151,matmos,a chance to cut is a chance to cure,8.8,mark richard-san
+651,9037,the replacements,dont you know who i think i was the best of the replacements,8.8,mark richardson
+652,12315,various artists,awake my soul the original soundtrack   help me to sing songs of the sacred harp,8.8,stephen m. deusner
+653,12320,fucked up,the chemistry of common life,8.8,ian cohen
+654,12711,nimrod workman,i want to go where things are beautiful,8.8,stephen m. deusner
+655,15889,superchunk,foolish,8.8,jess harvell
+656,12735,franco and le tout puissant ok jazz,francophonic vol 1 1953 1980,8.8,mike powell
+657,15363,fleet foxes,helplessness blues,8.8,larry fitzmaurice
+658,19060,real estate,atlas,8.8,jayson greene
+659,12282,saint etienne,london conversations the best of saint etienne,8.8,scott plagenhoef
+660,21847,prince,around the world in a day,8.8,alan light
+661,19094,the war on drugs,lost in the dream,8.8,stuart berman
+662,19433,how to dress well,what is this heart,8.8,ian cohen
+663,16162,nirvana,live at the paramount,8.8,jayson greene
+664,10924,pylon,gyrate plus,8.8,william bowers
+665,7563,summer hymns,voice brother and sister,8.8,matt lemay
+666,21203,various artists,ork records new york new york,8.8,aaron leitko
+667,10844,can,anthology,8.8,joe tangari
+668,16503,spiritualized,sweet heart sweet light,8.8,ryan dombal
+669,2682,edan,beauty and the beat,8.8,peter macia
+670,7565,summer hymns,a celebratory arm gesture,8.8,matt lemay
+671,11153,bee gees,greatest,8.8,mark richardson
+672,6905,remarc,sound murderer,8.8,scott plagenhoef
+673,17522,phosphorescent,muchacho,8.8,jayson greene
+675,19820,grouper,ruins,8.8,philip sherburne
+676,11058,vampire weekend,vampire weekend,8.8,nitsuh abebe
+677,6304,pinetop seven,lest we forget,8.8,joe tangari
+678,19923,captain beefheart,sun zoom spark 1970 to 1972,8.8,andy beta
+679,3930,hot snakes,suicide invoice,8.8,eric carr
+680,3863,high on fire,surrounded by thieves,8.8,isaiah violante
+681,19936,ariel pink,pom pom,8.8,jeff weiss
+682,20004,david bowie,nothing has changed,8.8,douglas wolk
+683,4763,liars,we no longer knew who we were ep and fins to make us more fish like,8.8,eric carr
+684,19805,songs ohia,didnt it rain,8.8,jason heller
+685,2861,the ex,turn,8.8,joe tangari
+686,456,annie,anniemal,8.8,scott plagenhoef
+687,7704,simply saucer,cyborgs revisited,8.8,chris dahlen
+689,6797,rjd2,deadringer,8.8,sam chennault
+690,14688,no age,everything in between,8.8,paul thompson
+691,16595,the pharcyde,bizarre ride ii the pharcyde the singles collection music box,8.8,eric harvey
+692,20935,dr dre,compton,8.8,jay balfour
+693,10082,deerhunter,fluorescent grey,8.8,marc hogan
+694,19736,sun ra and his arkestra,in the orbit of ra,8.8,andy beta
+695,17437,jawbreaker,bivouac,8.8,brandon stosuy
+696,14819,elliott smith,an introduction to,8.8,mark pytlik
+697,296,arovane,tides,8.8,paul cooper
+698,15120,pj harvey,let england shake,8.8,scott plagenhoef
+699,4275,jóhann jóhannsson,virulegu forsetar,8.8,mark richardson
+700,8561,tom waits,used songs 1973 1980,8.8,luke buckman
+701,18028,daft punk,random access memories,8.8,mark richardson
+702,11674,fairport convention,what we did on our holidays,8.8,stephen m. deusner
+703,6530,parsley sound,parsley sounds,8.8,hartley goldstein
+704,15034,destroyer,kaputt,8.8,mark richardson
+705,11438,portishead,third,8.8,nate patrin
+706,9481,various artists,what it is,8.8,joe tangari
+707,2129,daedelus,invention,8.8,paul cooper
+708,10178,feist,the reminder,8.8,ryan dombal
+709,19590,fka twigs,lp1,8.8,philip sherburne
+710,11407,cut copy,in ghost colours,8.8,mark pytlik
+711,21391,fingers inc,another side,8.8,andy beta
+712,441,architecture in helsinki,in case we die,8.8,rob mitchum
+713,20203,scharpling and wurster,the best of the best show,8.8,nate patrin
+714,2815,enon,high society,8.8,rob mitchum
+715,5485,ms john soda,no p or d,8.8,eric carr
+716,14524,serge gainsbourg jane birkin,jane birkin et serge gainsbourg,8.8,joe tangari
+717,21265,underworld,second toughest in the infants,8.8,andrew gaerig
+718,11731,brian eno,discreet music,8.8,liam singer
+719,9599,merle haggard,hag the best of merle haggard,8.8,stephen m. deusner
+720,13441,raekwon,only built 4 cuban linx pt ii,8.8,nate patrin
+721,16766,codeine,frigid stars,8.8,brandon stosuy
+722,20131,father john misty,i love you honeybear,8.8,mike powell
+723,17909,shuggie otis,inspiration information,8.8,eric harvey
+724,13421,the beatles,with the beatles,8.8,tom ewing
+725,2569,death comet crew,this is riphop,8.8,jonathan zwickel
+726,22186,sunny day real estate,how it feels to be something on,8.8,ian cohen
+727,22004,van morrison,its too late to stop now volumes ii iii iv and dvd,8.8,brad nelson
+728,22663,pink floyd,the early years 1965 1972,8.8,jesse jarnow
+729,22052,blood orange,freetown sound,8.8,marcus j. moore
+730,11714,various artists,artificial intelligence,8.8,mark richardson
+731,1200,band of horses,everything all the time,8.8,stephen m. deusner
+732,11699,can,future days,8.8,dominique leone
+733,22282,angel olsen,my woman,8.8,jenn pelly
+734,2041,various artists,fonotone records,8.8,amanda petrusich
+735,2078,various artists,cult cargo belize city boil up,8.8,joe tangari
+736,11752,merle haggard,strangers swinging doors and the bottle let me down,8.8,stephen m. deusner
+737,21980,cornelius,fantasma,8.8,patrick st. michel
+738,3176,sage francis,personal journals,8.7,chris dahlen
+739,18390,robbie basho,visions of the country,8.7,grayson haver currin
+740,3979,heldon,interface,8.7,dominique leone
+741,321,asian dub foundation,community music,8.7,nick mirov
+742,2449,dreamies,dreamies 2006 special edition,8.7,joe tangari
+743,8571,the walkmen,everyone who pretended to like me is gone,8.7,chris dahlen
+744,16175,drexciya,journey of the deep sea dweller i,8.7,philip sherburne
+745,18295,fuck buttons,slow focus,8.7,jayson greene
+746,22482,solange,a seat at the table,8.7,julianne escobedo shepherd
+747,13400,the xx,xx,8.7,andrew gaerig
+748,13058,saint etienne,foxbase alpha,8.7,jess harvell
+749,18088,scott walker,scott the collection 1967 1970,8.7,mike powell
+750,8971,love is all,9 times that same song,8.7,nick sylvester
+751,17977,savages,silence yourself,8.7,lindsay zoladz
+752,13411,sunny day real estate,diary,8.7,ian cohen
+753,17732,the haxan cloak,excavation,8.7,nick neyland
+754,2037,various artists,amplify 2002,8.7,dominique leone
+755,9883,rhys chatham,a crimson grail,8.7,marc masters
+756,753,black dog and black sifichi,unsavoury products,8.7,paul cooper
+757,3440,ghost,hypnotic underworld,8.7,brandon stosuy
+758,8136,trans am,the red line,8.7,mark richard-san
+759,16292,burial,kindred,8.7,andrew ryce
+760,10129,joanna newsom,joanna newsom and the ys street band,8.7,douglas wolk
+761,1185,boris,pink,8.7,brandon stosuy
+762,18402,bob dylan,bootleg series vol 10 another self portrait,8.7,mark richardson
+763,5050,majesticons,beauty party,8.7,julianne escobedo shepherd
+764,12455,various artists,love train the sound of philadelphia,8.7,nate patrin
+765,18886,cybotron,enter,8.7,miles raymer
+766,5900,namelessnumberheadman,your voice repeating,8.7,michael idov
+767,10287,james blackshaw,the cloud of unknowing,8.7,grayson haver currin
+768,12499,pavement,brighten the corners nicene creedence ed,8.7,stuart berman
+769,4892,low,things we lost in the fire,8.7,ryan schreiber
+770,20457,holly herndon,platform,8.7,winston cook-wilson
+771,12547,dj shadow,the 4 track era bundle,8.7,nate patrin
+772,12523,a guy called gerald,black secret technology,8.7,tim finney
+773,21762,ulver,bergtatt,8.7,zoe camp
+774,12635,tp orchestre poly rythmo,the vodoun effect,8.7,joe tangari
+775,3383,galerie stratique,nothing down to earth,8.7,paul cooper
+776,12760,isaac hayes,black moses,8.7,stephen m. deusner
+777,12927,al green,lets stay together,8.7,douglas wolk
+778,18565,danny brown,old,8.7,jayson greene
+779,5292,mimeo john tilbury,the hands of caravaggio,8.7,matt wellins
+780,3656,the go team,thunder lightning strike,8.7,rob mitchum
+781,3793,hecker,sun pandmonium,8.7,andy beta
+782,392,david axelrod,the edge david axelrod at capitol 1966 1970,8.7,sean fennessey
+783,3835,matthew herbert,around the house,8.7,mark richard-san
+784,5180,eugene mcdaniels,headless heroes of the apocalypse,8.7,chris dahlen
+785,10207,dan deacon,spiderman of the rings,8.7,jess harvell
+786,10208,elliott smith,new moon,8.7,matt lemay
+787,22444,nicolas jaar,sirens,8.7,jonah bromwich
+788,17672,youth lagoon,wondrous bughouse,8.7,ian cohen
+789,2551,dj signify,sleep no more,8.7,rollie pemberton
+790,9827,frank sinatra,vegas live,8.7,stephen trouss
+791,5440,mos def,black on both sides,8.7,andrew goldman
+792,9796,of montreal,hissing fauna are you the destroyer,8.7,rob mitchum
+793,21306,bruce springsteen,the ties that bind the river collection,8.7,stephen thomas erlewine
+794,14255,saint etienne,tiger bay,8.7,marc hogan
+795,3977,the hold steady,separation sunday,8.7,tom breihan
+796,17072,ride,going blank again,8.7,ian cohen
+797,22639,sun ra,singles,8.7,dean van nguyen
+798,4785,gyorgy ligeti,"Ligeti Project Vol.2 - Lontano, Atmosphères, Apparitions, San Francisco Polyphony & Concert Românesc",8.7,dominique leone
+799,1626,elvis costello,king of america,8.7,stephen m. deusner
+800,9536,tom moulton,a tom moulton mix,8.7,alex linhardt
+801,14870,girls,broken dreams club,8.7,david bevan
+802,1178,the band,a musical history,8.7,stephen m. deusner
+803,9497,tim hecker,harmony in ultraviolet,8.7,mark richardson
+804,21488,david bowie,young americans,8.7,douglas wolk
+805,11778,merzbow,pulse demon,8.7,alexander lloyd linhardt
+806,14853,suede,the best of suede,8.7,scott plagenhoef
+807,9479,califone,roots and crowns,8.7,amanda petrusich
+808,16452,chromatics,kill for love,8.7,marc hogan
+809,16744,ty segall band,slaughterhouse,8.7,stuart berman
+810,3927,hot hot heat,make up the breakdown,8.7,rob mitchum
+811,1066,brother ali,shadows on the sun,8.7,rollie pemberton
+812,14662,das racist,sit down man,8.7,ian cohen
+813,9426,mastodon,blood mountain,8.7,brandon stosuy
+814,14678,how to dress well,love remains,8.7,mark richardson
+815,3261,felt,stains on a decade,8.7,scott plagenhoef
+816,55,adult,resuscitation,8.7,nitsuh abebe
+818,1339,cassetteboy,the parker tapes,8.7,chris dahlen
+819,5059,stephen malkmus and the jicks,face the truth,8.7,sam ubl
+820,16512,death grips,the money store,8.7,jayson greene
+821,6641,bogdan raczynski,96 drum n bass classixxx,8.7,mark martelli
+822,14251,sleigh bells,treats,8.7,mark richardson
+823,1791,camron,purple haze,8.7,tom breihan
+824,14203,the national,high violet,8.7,andrew gaerig
+825,1564,common,like water for chocolate,8.7,taylor m. clark
+826,6611,quasimoto,astronaut,8.7,sam chennault
+827,13683,various artists,can you dig it the music and politics of black action films 1968 75,8.7,nate patrin
+828,921,tyondai braxton,history that has no effect,8.7,joe tangari
+829,9742,charlemagne palestine and tony conrad,an aural symbiotic mystery,8.7,grayson currin
+830,2028,various artists,mutant disco,8.7,alex linhardt
+831,17565,marianne faithfull,broken english deluxe edition,8.7,lindsay zoladz
+832,13820,franco and le tout puissant ok jazz,francophonic vol 2 1980 1989,8.7,douglas wolk
+833,17504,oneohtrix point never,rifts,8.7,marc masters
+834,3060,the fire show,saint the fire show,8.7,joe tangari
+835,1504,the clientele,the violet hour,8.7,scott plagenhoef
+836,17491,herbert,bodily functions,8.7,andrew ryce
+837,2148,dlek,from filthy tongue of gods and griots,8.7,david m. pecoraro
+838,11733,cluster brian eno,cluster and eno,8.7,mark richardson
+839,21178,bob dylan,the cutting edge 1965 1966 the bootleg series volume 12,8.7,mark richardson
+840,17434,bikini kill,bikini kill,8.7,lindsay zoladz
+841,14010,titus andronicus,the monitor,8.7,rob mitchum
+842,21108,oneohtrix point never,garden of delete,8.7,philip sherburne
+843,5555,menomena,i am the fun blame monster,8.7,joe tangari
+844,14068,the white stripes,under great white northern lights,8.7,ryan dombal
+845,3438,ghost,snuffbox immanence,8.7,ryan schreiber
+846,7887,various artists,kill bill vol 1,8.7,alex linhardt
+847,1724,café tacvba,cuatro caminos,8.7,alexander lloyd linhardt
+848,17205,andy stott,luxury problems,8.7,mark richardson
+849,4747,les savy fav,rome,8.7,matt lemay
+850,14917,robyn,body talk,8.7,marc hogan
+851,21269,gloria ann taylor,love is a hurtin thing,8.7,andy beta
+852,10428,various artists,saturday night fever,8.7,stephen m. deusner
+853,18538,the field,cupids head,8.7,larry fitzmaurice
+854,9365,grizzly bear,yellow house,8.7,mark richardson
+855,20148,sleater kinney,no cities to love,8.7,jenn pelly
+856,11698,can,monster movie,8.7,dominique leone
+857,10658,kanye west,graduation,8.7,mark pytlik
+858,10455,laurie anderson,big science,8.7,joshua klein
+859,10945,robyn hitchcock,i wanna go backwards,8.7,matt lemay
+860,12266,the replacements,tim,8.7,mark richardson
+861,10509,okkervil river,the stage names,8.7,stephen m. deusner
+862,1148,build an ark,peace with every step,8.7,cameron macdonald
+863,10535,life without buildings,live at the annandale hotel,8.7,brian howe
+864,19832,boards of canada,hi scores,8.7,philip sherburne
+865,11549,bonnie prince billy,lie down in the light,8.7,stephen m. deusner
+866,6448,prefuse 73,vocal studies  uprock narratives,8.7,christopher dare
+867,5507,dorine muraille,mani,8.7,jascha hoffman
+868,19824,drexciya,neptunes lair,8.7,andy beta
+869,10488,lee scratch perry,ape ology,8.7,mike powell
+870,4216,jay z,the blueprint,8.7,ethan p.
+871,11206,fleet foxes,sun giant,8.7,stephen m. deusner
+872,19148,todd terje,its album time,8.7,mike powell
+873,12174,robyn hitchcock and the egyptians,luminous groove,8.7,matt lemay
+874,20155,the staple singers,freedom highway complete,8.7,stephen m. deusner
+875,11263,rhys chatham and his guitar trio all stars,guitar trio is my life,8.7,grayson currin
+876,19075,cloud nothings,here and nowhere else,8.7,ian cohen
+877,11844,judee sill,judee sill,8.7,dominique leone
+878,5503,mm,please smile my noise bleed,8.7,christopher f. schiel
+879,15918,real estate,days,8.7,marc masters
+880,19755,aphex twin,syro,8.7,mark richardson
+881,1694,the cure,three imaginary boys,8.7,nitsuh abebe
+882,15998,atlas sound,parallax,8.7,nick neyland
+883,19885,the afghan whigs,gentlemen at 21,8.7,stephen m. deusner
+884,6917,max richter,the blue notebooks,8.7,mark pytlik
+885,65,aesop rock,labor days,8.7,nitsuh abebe
+886,4351,michael jackson,the essential michael jackson,8.7,david raposa
+887,22277,william basinski,92982,8.7,kevin lozano
+888,15656,megadeth,peace sells but whos buying,8.7,jess harvell
+889,2021,various artists,total 6,8.7,jess harvell
+890,10688,ricardo villalobos,fabric 36,8.7,jess harvell
+891,3222,edith frost,wonder wonder,8.7,john dark
+892,3654,the go team,thunder lightning strike,8.7,ryan schreiber
+893,7983,thee headcoats,headcoats down,8.7,dan kilian
+894,11524,steinski,what does it all mean 1983 2006 retrospective,8.7,nate patrin
+895,2079,various artists,eccentric soul the deep city label,8.7,joe tangari
+896,18864,max richter,memoryhouse,8.7,grayson haver currin
+897,11608,lil wayne,tha carter iii,8.7,ryan dombal
+898,20079,panda bear,panda bear meets the grim reaper,8.7,stuart berman
+899,5357,modest mouse,night on the sun,8.7,d. erik kempke
+900,910,glenn branca,lesson no 1,8.7,liam singer
+901,1590,constantines,constantines,8.7,dan kilian
+902,19181,life without buildings,any other city,8.7,lindsay zoladz
+903,11683,bright eyes,im wide awake its morning,8.7,chris dahlen
+904,4355,sharon jones and the dap kings,naturally,8.7,cameron macdonald
+905,2339,the dismemberment plan,change,8.6,ryan schreiber
+906,6467,archer prewitt,white sky,8.6,ryan schreiber
+907,19514,spoon,they want my soul,8.6,ryan dombal
+908,5366,mogwai,my father my king,8.6,christopher f. schiel
+909,11429,love,forever changes,8.6,stephen m. deusner
+910,8270,shugo tokumaru,night piece,8.6,nick sylvester
+911,7438,spring heel jack,masses,8.6,christopher dare
+912,9653,john fahey,sea changes and coelacanths a young persons guide to john fahey,8.6,marc masters
+913,10668,the tough alliance,a new chance,8.6,marc hogan
+914,21098,franoise hardy,tous les garons et les filles,8.6,hazel cills
+915,22600,abba,arrival,8.6,simon goddard
+916,21041,neon indian,vega intl night school,8.6,ian cohen
+917,17623,iceage,youre nothing,8.6,brandon stosuy
+918,1231,calexico,even my sure things fall through,8.6,joe tangari
+919,180,and you will know us by the trail of dead,relative ways,8.6,kevin adickes
+920,3648,gang gang dance,gods money,8.6,brandon stosuy
+921,13807,vampire weekend,contra,8.6,mike powell
+922,13830,owen pallett,heartland,8.6,nitsuh abebe
+923,4027,richard hell,spurts the richard hell story,8.6,jason crock
+924,19483,mike cooper,trout steel,8.6,jayson greene
+925,11418,kid creole,going places the august darnell years 1976 1983,8.6,andy battaglia
+926,13861,four tet,there is love in you,8.6,mark richardson
+927,8972,serena maneesh,serena maneesh,8.6,nick sylvester
+928,4590,the knife,silent shout,8.6,mark pytlik
+929,21125,the promise ring,nothing feels good,8.6,ian cohen
+930,11366,willie nelson,one hell of a ride,8.6,stephen m. deusner
+931,7956,teenage fanclub,four thousand seven hundred and sixty six seconds a shortcut to teenage fanclub,8.6,alex linhardt
+932,3321,the foreign exchange,connected,8.6,jamin warren
+933,19570,pallbearer,foundations of burden,8.6,brandon stosuy
+934,21326,archy marshall,a new place 2 drown,8.6,jayson greene
+935,2200,miles davis,the complete jack johnson sessions,8.6,dominique leone
+936,6521,linda perhacs,parallelograms,8.6,andy beta
+937,19926,unwound,no energy,8.6,sam hockley-smith
+938,8711,wire,read and burn 02,8.6,eric carr
+939,16805,twin shadow,confess,8.6,ian cohen
+940,14516,arcade fire,the suburbs,8.6,ian cohen
+941,14515,queens of the stone age,rated r,8.6,sean fennessey
+942,7476,stars of the lid,the tired sounds of,8.6,mark richard-san
+943,14605,the walkmen,lisbon,8.6,tom breihan
+944,16678,drexciya,journey of the deep sea dweller ii,8.6,andrew gaerig
+945,7023,schlammpeitziger,collected simplesongs of my temporary past,8.6,mark richardson
+946,11315,melchior productions,no disco future,8.6,philip sherburne
+947,1015,built to spill,ancient melodies of the future,8.6,spencer owen
+948,5541,madlib,shades of blue madlib invades blue note,8.6,scott hreha
+949,16577,abba,the visitors,8.6,tom ewing
+950,11027,various artists,black mirror reflections in global music,8.6,mike mcgonigal
+951,16537,killer mike,rap music,8.6,ian cohen
+952,974,james brown,in the jungle groove,8.6,dominique leone
+953,6652,radio birdman,the essential radio birdman,8.6,joe tangari
+954,22044,michael jackson,dangerous,8.6,jeff weiss
+955,1202,booka shade,movements,8.6,tim finney
+956,14449,the dream,love king,8.6,david drake
+957,11160,atlas sound,let the blind lead those who can see but cannot feel,8.6,marc hogan
+958,19762,caribou,our love,8.6,jamieson cox
+959,11278,yellow swans,at all ends,8.6,marc masters
+960,17132,converge,all we love we leave behind,8.6,brandon stosuy
+961,14221,various artists,honest strings a tribute to the life and work of jack rose,8.6,grayson currin
+962,11280,fuck buttons,street horrrsing,8.6,marc masters
+963,8924,john zorn,songs from the hermetic theatre,8.6,brent s. sirota
+964,1469,the cinematic orchestra,every day,8.6,paul cooper
+965,10879,jay z,american gangster,8.6,tom breihan
+966,22527,philip glass,the complete sony recordings,8.6,seth colter walls
+967,8538,vitalic,ok cowboy,8.6,mark pytlik
+968,8557,rufus wainwright,poses,8.6,joe tangari
+969,2346,dizzee rascal,showtime,8.6,scott plagenhoef
+970,8665,keith fullerton whitman,lisbon,8.6,mark richardson
+971,16836,andrew wk,i get wet,8.6,ian cohen
+972,21387,anderson paak,malibu,8.6,marcus j. moore
+973,669,the beta band,hot shots ii,8.6,matt lemay
+974,20181,bjork,vulnicura,8.6,katherine st. asaph
+975,19772,fela kuti,vinyl box set 3,8.6,aaron leitko
+976,8268,terrestre,secondary inspection,8.6,mark richardson
+977,5009,m83,before the dawn heals us,8.6,brandon stosuy
+978,7727,bruce springsteen,the essential bruce springsteen,8.6,mark richardson
+979,10497,blossom toes,we are ever so clean,8.6,douglas wolk
+980,18627,dj rashad,double cup,8.6,larry fitzmaurice
+981,12717,various artists,dark was the night,8.6,scott plagenhoef
+982,10482,white noise,an electric storm,8.6,matthew murphy
+983,19086,perfect pussy,say yes to love,8.6,lindsay zoladz
+984,10271,the beach boys,the warmth of the sun,8.6,mark richardson
+986,20384,tori amos,little earthquakes,8.6,barry walters
+987,10242,the national,boxer,8.6,stephen m. deusner
+988,830,blur,the best of blur,8.6,richard m. juzwiak
+989,11701,vic chesnutt,little,8.6,stephen m. deusner
+990,18732,william onyeabor,world psychedelic classics 5 who is william onyeabor,8.6,andy beta
+991,10512,hawkwind,space ritual collectors edition,8.6,nate patrin
+992,19088,lavender country,lavender country,8.6,jayson greene
+993,4183,j zone,pimps dont pay taxes,8.6,brad haywood
+994,18511,drake,nothing was the same,8.6,jayson greene
+995,4139,isotope 217,who stole the i walkman,8.6,ryan schreiber
+996,10530,nina nastasia and jim white,you follow me,8.6,matt lemay
+997,8257,craig taborn,junk magic,8.6,chris dahlen
+998,5639,giorgio moroder,from here to eternity,8.6,dominique leone
+999,8008,thinking fellers union local 282,bob dinners and larry noodles present tubby turdners celebrity avalanche,8.6,joe tangari
+1000,467,antony and the johnsons,i am a bird now,8.6,brandon stosuy
+1001,2110,various artists,american primitive vol ii pre war revenants,8.6,zach baron
+1003,549,various artists,golden apples of the sun,8.6,brandon stosuy
+1004,20557,kamasi washington,the epic,8.6,seth colter walls
+1005,12425,theo parrish,sound sculptures volume 1,8.6,andy battaglia
+1006,12454,the gaslight anthem,the 59 sound,8.6,tom breihan
+1007,5940,phil ochs,the best of phil ochs 20th century masters,8.6,chris dahlen
+1008,10448,sebadoh,the freed man,8.6,brandon stosuy
+1009,466,ada,blondie,8.6,sam ubl
+1010,12330,bob dylan,the bootleg series vol 8 tell tale signs rare and unreleased 1986 2006,8.6,tom ewing
+1011,12503,the very best,esau mwamwaya and radioclit are the very best,8.6,scott plagenhoef
+1012,20488,jim orourke,simple songs,8.6,mark richardson
+1013,12474,roy orbison,the soul of rock and roll,8.6,stephen m. deusner
+1014,837,boards of canada,geogaddi,8.6,mark richard-san
+1015,12510,various artists,give me love songs of the brokenhearted baghdad 1925 1929,8.6,joe tangari
+1016,10322,pig destroyer,phantom limb,8.6,jess harvell
+1017,6439,posthuman,the uncertainty of the monkey,8.6,christopher dare
+1018,19020,st vincent,st vincent,8.6,lindsay zoladz
+1019,1734,charalambides,joy shapes,8.6,dominique leone
+1020,3918,hood,outside closer,8.6,nitsuh abebe
+1021,10338,thomas fehlmann,honigpumpe,8.6,andy battaglia
+1022,10316,neurosis,given to the rising,8.6,d. shawn bosler
+1023,12596,antony and the johnsons,the crying light,8.6,marc masters
+1024,12125,lindstrm,where you go i go too,8.6,tim finney
+1025,1789,clogs,stick music,8.6,david raposa
+1026,5323,minus the bear,this is what i know about being gigantic,8.6,brad haywood
+1027,19352,american football,american football,8.6,ian cohen
+1028,20985,fka twigs,m3ll155x,8.6,anupa mistry
+1029,13384,radiohead,hail to the thief special collectors edition,8.6,joe tangari
+1030,20268,courtney barnett,sometimes i sit and think and sometimes i just sit,8.6,mike powell
+1031,22338,prince,one nite alone the aftershow it aint over,8.6,seth colter walls
+1032,22404,the shaggs,philosophy of the world,8.6,quinn moreland
+1033,6153,papa m,whatever mortal,8.6,matt lemay
+1034,4795,lilys,the 3 way,8.6,michael sandlin
+1035,19389,lewis,lamour,8.6,stephen m. deusner
+1036,2440,bob drake,the skull mailbox and other horrors,8.6,dominique leone
+1037,3027,morton feldman,patterns in a chromatic field,8.6,liam singer
+1038,18378,julia holter,loud city song,8.6,lindsay zoladz
+1039,583,pierre bastien,mecanoid,8.6,david m. pecoraro
+1040,17793,dj koze,amygdala,8.6,andrew ryce
+1041,13518,the very best,warm heart of africa,8.6,brian howe
+1042,11933,air france,no way down,8.6,marc hogan
+1043,13510,neon indian,psychic chasms,8.6,marc hogan
+1044,19403,parquet courts,sunbathing animal,8.6,larry fitzmaurice
+1045,7973,jimi tenor,organism,8.6,ryan schreiber
+1046,19460,white lung,deep fantasy,8.6,ian cohen
+1047,10691,iron and wine,the shepherds dog,8.6,joe tangari
+1048,1332,johnny cash,american iii solitary man,8.6,ryan kearney
+1049,18065,baths,obsidian,8.6,ian cohen
+1050,13273,pp bradock,confiote de bits a remix collection,8.6,philip sherburne
+1051,526,badly drawn boy,the hour of bewilderbeast,8.6,brent dicrescenzo
+1052,10111,the twilight sad,fourteen autumns and fifteen winters,8.6,mark richardson
+1053,19153,bikini kill,yeah yeah yeah yeah,8.6,jenn pelly
+1054,3036,fennesz,venice,8.6,mark richardson
+1055,4127,iron and wine,our endless numbered days,8.6,amanda petrusich
+1056,10064,stars of the lid,and their refinement of the decline,8.6,mark richardson
+1057,3647,gang gang dance,gang gang dance,8.6,andrew bryant
+1058,13091,james brown,the singles vol 7 1970 1972,8.6,douglas wolk
+1059,12000,the bug,london zoo,8.6,nate patrin
+1060,10553,the chills,heavenly pop hits the best of the chills,8.6,joshua klein
+1061,10562,prefab sprout,steve mcqueen,8.6,stephen trouss
+1062,2293,destroyer,your blues,8.6,matt lemay
+1063,18045,devo,hardcore volume 1,8.6,andy beta
+1064,12005,harvey milk,lifethe best game in town,8.6,grayson currin
+1065,3798,tim hecker,haunt me haunt me do it again,8.6,mark richard-san
+1066,5909,stina nordenstam,the world is saved,8.6,david raposa
+1067,5618,mia,arular,8.6,scott plagenhoef
+1068,13319,beastie boys,ill communication,8.6,nate patrin
+1069,13326,jj,jj n 2,8.6,marc hogan
+1070,9986,various artists,stax 50th anniversary celebration,8.6,stephen m. deusner
+1071,8248,28th day,the complete recordings,8.6,philip welsh
+1072,9881,the trees community,the christ tree,8.6,liz colville
+1073,6143,june panic,babys breadth,8.6,william bowers
+1074,15475,reatards,teenage hate,8.6,david bevan
+1075,7115,matthew shipp,pastoral composure,8.6,matt lemay
+1076,2443,bob drake,what day is it,8.6,dominique leone
+1077,1972,various artists,children of nuggets original artyfacts from the second psychedelic era 1976 1996,8.6,joe tangari
+1078,16108,throbbing gristle,the second annual report of throbbing gristle,8.6,drew daniel
+1079,15124,tim hecker,ravedeath 1972,8.6,joe colly
+1080,6480,prince,ultimate prince,8.6,mark richardson
+1081,4749,les savy fav,the cat and the cobra,8.6,brent dicrescenzo
+1082,3465,glifted,under and in,8.6,isaiah violante
+1083,15800,art of noise,whos afraid of the art of noise,8.6,tom ewing
+1084,7818,sunset rubdown,shut up i am dreaming,8.6,brandon stosuy
+1085,16118,bobby charles,bobby charles,8.6,andy beta
+1086,15840,van dyke parks,arrangements vol 1,8.6,jayson greene
+1087,14878,orange juice,coals to newcastle,8.6,tom ewing
+1088,16039,drake,take care,8.6,ryan dombal
+1089,6879,the russian futurists,lets get ready to crumble,8.6,nitsuh abebe
+1090,3500,goldcard,goldcard,8.6,andrew bryant
+1091,7002,saturday looks good to me,all your summer songs,8.6,rob mitchum
+1092,5077,manitoba,up in flames,8.6,mark richardson
+1093,21705,kendrick lamar,untitled unmastered,8.6,kris ex 
+1094,190,animal collective,here comes the indian,8.6,andy beta
+1095,7176,sin ropas,trickboxes on the pony line,8.6,amanda petrusich
+1096,21575,esperanza spalding,emilys devolution,8.6,marcus j. moore
+1097,21755,metallica,kill em all,8.6,saby reyes-kulkarni
+1098,1566,common,be,8.6,ryan dombal
+1099,187,the angels of light,everything is good here please come home,8.6,dominique leone
+1100,14999,william tyler,behold the spirit,8.6,grayson currin
+1101,15835,wolves in the throne room,celestial lineage,8.6,brandon stosuy
+1102,16352,julia holter,ekstasis,8.6,mark richardson
+1103,15473,mickey newbury,an american trilogy,8.6,stephen m. deusner
+1104,11697,califone,quicksand cradlesnakes,8.6,mark richardson
+1105,5710,nas,gods son,8.6,sam chennault
+1106,14763,the jon spencer blues explosion,orange,8.6,tom breihan
+1107,15055,cut copy,zonoscope,8.6,tom breihan
+1108,15513,fucked up,david comes to life,8.6,larry fitzmaurice
+1109,15165,harald grosskopf,synthesist,8.6,mark richardson
+1110,1211,cabaret voltaire,methodology 74 78 attic tapes,8.6,david raposa
+1111,16158,cloud nothings,attack on memory,8.6,ian cohen
+1112,8096,toktok vs soffy o,toktok vs soffy o,8.6,nitsuh abebe
+1113,1507,the clientele,strange geometry,8.6,mark richardson
+1114,5149,ekkehard ehlers stephan mathieu,heroin,8.6,mark richardson
+1115,524,badgerlore,of things too sorrowful to be reminded of and things too beautiful to possess,8.6,brandon stosuy
+1116,22745,run the jewels,run the jewels 3,8.6,sheldon pearce
+1117,4621,mike ladd,welcome to the afterfuture,8.6,ethan p.
+1118,7345,sonic youth,dirty deluxe edition,8.6,scott hreha
+1119,217,apes,oddeyesee,8.6,eric carr
+1120,14895,robert wyatt,shleep,8.6,douglas wolk
+1121,11858,venetian snares,winter in the belly of a snake,8.6,mark martelli
+1122,11743,frog eyes,the bloody hand,8.6,brandon stosuy
+1123,568,syd barrett,wouldnt you miss me the best of,8.5,kevin adickes
+1124,8439,venetian snares,a giant alien force more violent and sick than anything you can imagine,8.5,mark martelli
+1125,17505,aap rocky,longliveaap,8.5,jayson greene
+1126,1729,childs view,funfair,8.5,mark richardson
+1127,3374,gaji,ten to ten past ten,8.5,dominique leone
+1128,20463,prurient,frozen niagara falls,8.5,andy o'connor
+1129,12426,max tundra,parallax error beheads you,8.5,nitsuh abebe
+1130,10390,spoon,ga ga ga ga ga,8.5,eric harvey
+1131,16295,the men,open your heart,8.5,ian cohen
+1132,18793,nick drake,tuck box,8.5,jayson greene
+1133,22468,danny brown,atrocity exhibition,8.5,matthew ramirez
+1134,11892,girls aloud,the sound of girls aloud,8.5,tim finney
+1135,21867,beyonc,lemonade,8.5,jillian mapes
+1136,10356,robert forster grant mclennan,intermission the best of the solo recordings 1990 1997,8.5,joshua klein
+1137,15972,the louvin brothers,satan is real,8.5,stephen m. deusner
+1138,951,brokeback,field recordings from the cook county water table,8.5,chip chanko
+1139,18736,blood orange,cupid deluxe,8.5,ryan dombal
+1140,6965,safety scissors,parts water,8.5,paul cooper
+1142,21097,joanna newsom,divers,8.5,laura snapes
+1143,7348,sonic youth,sonic nurse,8.5,sam ubl
+1144,17508,stars of the lid,the ballasted orchestra,8.5,mark richardson
+1145,21518,vijay iyer wadada leo smith,a cosmic rhythm with each stroke,8.5,seth colter walls
+1146,13538,various artists,tumbl biguine afro and latin sounds from the french caribbean 1963 1974,8.5,joe tangari
+1147,5551,michael mayer,fabric 13,8.5,scott plagenhoef
+1148,5096,manual,ascend,8.5,paul cooper
+1149,16067,kate bush,50 words for snow,8.5,ryan dombal
+1150,5963,okkervil river,black sheep boy,8.5,stephen m. deusner
+1151,6113,orthrelm,ov,8.5,dominique leone
+1152,13893,gil scott heron,im new here,8.5,nate patrin
+1153,15264,the weeknd,house of balloons,8.5,joe colly
+1154,6542,the plastic constellations,mazatlan,8.5,sam ubl
+1155,7180,single frame,wetheads come running,8.5,andrew bryant
+1156,4339,junior boys,birthday,8.5,scott plagenhoef
+1157,8791,wilderness,wilderness,8.5,ryan schreiber
+1158,21701,cluster,cluster 71,8.5,andy beta
+1159,12181,luciano,fabric 41,8.5,andy battaglia
+1160,17067,laurie spiegel,the expanding universe,8.5,andy beta
+1161,4147,ice cube,greatest hits,8.5,alexander lloyd linhardt
+1162,12143,tom carter and christian kiefer,from the great american songbook,8.5,grayson currin
+1163,1064,david byrne brian eno,my life in the bush of ghosts,8.5,chris dahlen
+1164,12132,flying lotus,los angeles,8.5,nate patrin
+1165,19170,mac demarco,salad days,8.5,marc hogan
+1166,1563,comets on fire,blue cathedral,8.5,brandon stosuy
+1167,103,alejandra and aeron,bousha blue blazes,8.5,dominique leone
+1168,22606,rachels,systems layers,8.5,benjamin scheim
+1169,12084,the walkmen,you and me,8.5,jason crock
+1170,14190,crystal castles,crystal castles,8.5,ian cohen
+1171,639,belle and sebastian,the life pursuit,8.5,marc hogan
+1172,1136,vashti bunyan,lookaftering,8.5,matthew murphy
+1173,17170,metz,metz,8.5,stuart berman
+1174,15403,gang gang dance,eye contact,8.5,aaron leitko
+1175,20450,jlin,dark energy,8.5,anupa mistry
+1176,12014,various artists,nigeria 70 lagos jump original heavyweight afrobeat highlife and afro funk,8.5,joe tangari
+1177,6331,plaid,trainer,8.5,paul cooper
+1178,8078,to live and shave in la,the wigmaker in eighteenth century williamsburg,8.5,jason nickey
+1179,12033,ragga twins,ragga twins step out,8.5,nate patrin
+1180,15386,ema,past life martyred saints,8.5,nick neyland
+1181,14110,the tallest man on earth,the wild hunt,8.5,stephen m. deusner
+1182,1805,caribou,the milk of human kindness,8.5,mark richardson
+1183,12390,luomo,convivial,8.5,tim finney
+1184,16379,azusa plane,where the sands turn to gold,8.5,ned raggett
+1185,63,aereogramme,sleep and release,8.5,william bowers
+1186,6353,pluramon,dreams top rock,8.5,mark richardson
+1187,21816,lush,gala,8.5,saby reyes-kulkarni
+1188,12345,blitzen trapper,furr,8.5,rebecca raber
+1189,14008,gorillaz,plastic beach,8.5,sean fennessey
+1190,8261,two gallants,the throes,8.5,jonathan zwickel
+1191,18947,various artists,hardcore traxx dance mania records 1986 1997,8.5,andrew gaerig
+1192,15299,panda bear,tomboy,8.5,jess harvell
+1193,14919,off,first four eps,8.5,paul thompson
+1194,12324,gang gang dance,saint dymphna,8.5,marc masters
+1195,21264,grimes,art angels,8.5,jessica hopper
+1196,17280,the weeknd,trilogy,8.5,ian cohen
+1197,415,ellen allien,orchestra of bubbles,8.5,philip sherburne
+1198,12286,vivian girls,vivian girls,8.5,amy granzin
+1199,12239,teenage jesus and beirut slump,shut up and bleed,8.5,marc masters
+1200,6297,pinback,offcell,8.5,brandon stosuy
+1201,3917,hood,cold house,8.5,nathan rooney
+1202,5911,naked city,the complete studio recordings,8.5,chris dahlen
+1203,9669,the beatles,love,8.5,mark richardson
+1204,664,tim berne,the sublime and,8.5,chris dahlen
+1206,14920,agalloch,marrow of the spirit,8.5,grayson haver currin
+1207,6470,archer prewitt,wilderness,8.5,sam ubl
+1208,10292,blitzen trapper,wild mountain nation,8.5,jason crock
+1209,7759,the skygreen leopards,one thousand bird ceremony,8.5,brandon stosuy
+1210,9696,dusty springfield,complete a and b sides 1963 1970,8.5,joe tangari
+1211,396,azita,enantiodromia,8.5,julianne escobedo shepherd
+1212,5452,the mountain goats,protein source of the future now,8.5,zach hooker
+1213,22514,leonard cohen,you want it darker,8.5,stacey anderson
+1214,13195,sunn 0))),monoliths and dimensions,8.5,grayson currin
+1215,13052,phoenix,wolfgang amadeus phoenix,8.5,ryan dombal
+1216,5453,the mountain goats,the coroners gambit,8.5,sam eccleston
+1217,4179,j live,all of the above,8.5,brad haywood
+1218,8771,the wind up bird,whips,8.5,rob mitchum
+1219,20989,the isley brothers,the isley brothers the rca victor and t neck album masters,8.5,stephen thomas erlewine
+1220,7460,starflyer 59,fell in love at 22,8.5,ryan schreiber
+1221,13009,isis,wavering radiant,8.5,roque strew
+1222,1235,califone,sometimes good weather follows bad people,8.5,brad haywood
+1223,12985,st vincent,actor,8.5,matthew perpetua
+1224,7639,akio suzuki,odds and ends,8.5,andy beta
+1225,15147,julianna barwick,the magic place,8.5,mark richardson
+1226,3184,freakwater,old paint,8.5,philip shelley
+1227,10126,throbbing gristle,part two the endless not,8.5,jess harvell
+1228,16288,porter ricks,biokinetics,8.5,philip sherburne
+1229,18408,julianna barwick,nepenthe,8.5,lindsay zoladz
+1230,10116,prodigy,return of the mac,8.5,tom breihan
+1231,4178,yesterdays new quintet,stevie,8.5,rollie pemberton
+1232,18401,forest swords,engravings,8.5,marc masters
+1233,3290,jason forrest,the unrelenting songs of the 1979 post disco crash,8.5,scott plagenhoef
+1234,1031,busdriver daedelus radioinactive,the weather,8.5,julianne escobedo shepherd
+1235,9864,various artists,forever changing the golden age of elektra records 1963 1973,8.5,stephen m. deusner
+1236,16161,the kinks,kinks in mono,8.5,joe tangari
+1237,17851,kurt vile,wakin on a pretty daze,8.5,jayson greene
+1238,10041,pentangle,the time has come 1967 73,8.5,matthew murphy
+1239,4970,jens lekman,oh youre so silent jens,8.5,amy phillips
+1240,13247,jon hassell,last night the moon came dropping its clothes in the street,8.5,philip sherburne
+1241,13334,yacht,see mystery lights,8.5,rebecca raber
+1242,2442,bob drake,the shunned country,8.5,dominique leone
+1243,13196,the antlers,hospice,8.5,brian howe
+1244,8569,stewart walker,stabiles,8.5,paul cooper
+1245,18090,jon hopkins,immunity,8.5,brian howe
+1246,16247,pete swanson,man with potential,8.5,marc masters
+1247,13173,various artists,legends of benin,8.5,joe tangari
+1248,2652,earlimart,everyone down here,8.5,michael idov
+1249,10000,pole,steingarten,8.5,philip sherburne
+1250,3441,ghost,metamorphosis ghost chronicles 1984 2004,8.5,matthew murphy
+1251,21587,flying saucer attack,further,8.5,mark richardson
+1252,11769,fela kuti,expensive shit he miss road,8.5,paul cooper
+1253,16249,john talabot,in,8.5,philip sherburne
+1254,18219,run the jewels,run the jewels,8.5,nate patrin
+1255,22440,terry allen,lubbock,8.5,stephen thomas erlewine
+1256,21895,vivien goldman,resolutionary,8.5,jenn pelly
+1257,8372,us maple,talker,8.5,nick mirov
+1258,13109,dinosaur jr,farm,8.5,marc masters
+1260,6613,quasimoto,the unseen,8.5,peter macia
+1261,21704,trd grs och stenar,djungelns lag,8.5,marc masters
+1262,21765,frankie cosmos,next thing,8.5,kevin lozano
+1263,5530,my morning jacket songs ohia,split,8.5,jason nickey
+1264,898,boyracer,to get a better hold youve got to loosen yr grip,8.5,nitsuh abebe
+1265,11840,simple minds,reel to real cacophony,8.5,joe tangari
+1266,11896,green day,kerplunk,8.5,jess harvell
+1267,18523,chvrches,the bones of what you believe,8.5,larry fitzmaurice
+1268,2534,dirty projectors,the glad fact,8.5,william bowers
+1269,9768,menomena,friend and foe,8.5,joe tangari
+1270,10229,lil wayne,da drought 3,8.5,ryan dombal
+1271,1742,captain beefheart,im going to do what i wanna do live at my fathers place 1978,8.5,alex linhardt
+1272,12833,dan deacon,bromst,8.5,nitsuh abebe
+1273,6966,safety scissors,tainted lunch,8.5,nitsuh abebe
+1274,16109,various artists,bambara mystic soul the raw sound of burkina faso 1974 1979,8.5,joe tangari
+1275,22134,fleetwood mac,mirage,8.5,laura snapes
+1276,7808,beanie sigel,the bcoming,8.5,tom breihan
+1277,4128,iron and wine,woman king,8.5,amanda petrusich
+1278,4626,laddio bolocko,the life and times of laddio bolocko,8.5,dominique leone
+1279,2758,missy elliott,this is not a test,8.5,brent dicrescenzo
+1280,7578,sunn 0))),flight of the behemoth,8.5,mike bernstein
+1281,5332,mirah,cmon miracle,8.5,michael idov
+1282,10276,scharpling and wurster,the art of the slap,8.5,nate patrin
+1283,9163,dr dre,death rows greatest hits the chronicles,8.5,sean fennessey
+1284,3598,guided by voices,hardcore ufos revelations epiphanies and fast food in the western hemisphere,8.5,matt lemay
+1285,9751,sally shapiro,disco romance,8.5,marc hogan
+1286,12682,studio 1,studio 1,8.5,andy battaglia
+1287,11750,diamanda gals,defixiones will and testament,8.5,brandon stosuy
+1288,13775,david lang,lang the little match girl passion,8.5,jayson greene
+1289,16248,hood,recollected,8.5,ned raggett
+1290,7605,super furry animals,lovekraft,8.5,marc hogan
+1291,7317,soilwork,natural born chaos,8.5,cory byrom
+1292,10130,mike tamburo and the universal orchestra of pituitary knowledge,ghosts of marumbey,8.5,grayson currin
+1293,21652,brad fiedel,the terminator,8.5,louis pattison
+1294,18452,roky erickson,the evil one,8.5,jason heller
+1295,13625,converge,axe to fall,8.5,cosmo lee
+1296,2604,dj target riko,aim high vol 2,8.5,jess harvell
+1297,13629,isaac hayes,shaft,8.5,nate patrin
+1298,6230,pere ubu,st arkansas,8.5,jason nickey
+1299,22065,the avalanches,wildflower,8.5,mark richardson
+1300,13603,baroness,blue record,8.5,grayson currin
+1301,10167,frog eyes,tears of the valedictorian,8.5,carl wilson
+1302,13649,various artists,ghana special modern highlife afro sounds and ghanaian blues 1968 1981,8.5,joe tangari
+1303,12910,bat for lashes,two suns,8.5,mark pytlik
+1304,17693,rhye,woman,8.5,miles raymer
+1305,11702,cocteau twins,lullabies to violaine singles and extended plays 1982 1996 vol 1,8.5,nitsuh abebe
+1306,7753,superpitcher,here comes love,8.5,mark pytlik
+1307,21030,mariah,utakata no hibi,8.5,jakob dorof
+1308,13686,nirvana,bleach,8.5,stuart berman
+1309,16211,grimes,visions,8.5,lindsay zoladz
+1310,18491,bill callahan,dream river,8.5,lindsay zoladz
+1311,3286,flamin groovies,shake some action,8.5,joe tangari
+1312,3283,anton fier,dreamspeed blind light,8.5,alex linhardt
+1313,17645,autre ne veut,anxiety,8.5,ian cohen
+1314,13703,real estate,real estate,8.5,david bevan 
+1315,13655,roll deep,street anthems,8.5,martin clark
+1316,5069,jeff mangum,orange twin field works vol 1,8.5,david m. pecoraro
+1317,10588,liars,liars,8.5,jess harvell
+1318,12183,the tough alliance,the new school,8.5,marc hogan
+1319,4084,the impossible shapes,laughter fills our hollow dome,8.5,jason nickey
+1320,19806,iceage,plowing into the field of love,8.5,larry fitzmaurice
+1321,14366,julian lynch,mare,8.5,joe colly
+1322,15801,fred mcdowell,the alan lomax recordings,8.5,amanda petrusich
+1323,21673,car seat headrest,teens of denial,8.5,jeremy gordon
+1324,14407,ceo,white magic,8.5,joe colly
+1325,4129,calexico iron and wine,in the reins,8.5,joe tangari
+1326,19478,a sunny day in glasgow,sea when absent,8.5,lindsay zoladz
+1327,15432,cults,cults,8.5,joe tangari
+1328,9518,peter bjorn and john,writers block,8.5,marc hogan
+1329,3945,hrvatski,swarm and dither,8.5,dominique leone
+1330,20086,viet cong,viet cong,8.5,ian cohen
+1331,2434,graeme downes,hammers and anvils,8.5,david raposa
+1332,10711,sunset rubdown,random spirit lover,8.5,brian howe
+1333,10925,daft punk,alive 2007,8.5,ryan dombal
+1334,9430,janes addiction,up from the catacombs the best of janes addiction,8.5,mark richardson
+1335,3032,fennesz,live in japan,8.5,mark richardson
+1336,8945,thalia zedek,been here and gone,8.5,andi rowlands
+1337,19539,eno • hyde,high life,8.5,mark richardson
+1338,11661,baptist generals,no silver no gold,8.5,brandon stosuy
+1339,9328,the thermals,the body the blood the machine,8.5,amanda petrusich
+1340,22401,washington phillips,washington phillips and his manzarene dreams,8.5,mike powell
+1341,14810,various artists,come and get it the best of apple records,8.5,douglas wolk
+1342,7626,supergrass,supergrass is 10,8.5,marc hogan
+1343,19688,mineral,the power of failing,8.5,brandon stosuy
+1344,9554,various production,the world is gone,8.5,jess harvell
+1345,19522,john coltrane,offering live at temple university,8.5,mark richardson
+1346,1774,castanets,cathedral,8.5,amanda petrusich
+1347,9287,the delgados,the complete bbc peel sessions,8.5,stuart berman
+1348,16936,ariel pinks haunted graffiti,mature themes,8.5,jayson greene
+1349,2465,kevin drumm,sheer hellish miasma,8.5,andy beta
+1350,2249,deerhoof,reveille,8.5,eric carr
+1351,4703,le tigre,le tigre,8.5,kristin sage rockermann
+1352,17068,blur,parklive,8.5,lindsay zoladz
+1353,15725,jay z kanye west,watch the throne,8.5,tom breihan
+1354,3545,grandaddy,the sophtware slump,8.5,ryan schreiber
+1355,11580,crystal antlers,ep,8.5,ian cohen
+1356,16938,jessie ware,devotion,8.5,ryan dombal
+1357,16641,el p,cancer for cure,8.5,jeff weiss
+1358,19849,vince staples,hell can wait,8.5,craig jenkins
+1359,7510,sufjan stevens,greetings from michigan the great lakes state,8.5,brandon stosuy
+1360,11208,beach house,devotion,8.5,brian howe
+1361,4769,the libertines,up the bracket,8.5,eric carr
+1362,2519,the deadly snakes,ode to joy,8.5,amanda petrusich
+1363,22050,gloss,trans day of revenge,8.5,brad nelson
+1364,21287,kevin gates,islah,8.5,jayson greene
+1365,16812,woody guthrie,woody at 100 the woody guthrie centennial collection,8.5,rachael maddux
+1366,9052,johnny cash,personal file,8.5,stephen m. deusner
+1367,5617,diplo mia,piracy funds terrorism vol 1,8.5,nick sylvester
+1368,4116,interpol,antics,8.5,david moore
+1369,3242,fugazi,the argument,8.5,joe tangari
+1370,7344,sonic youth,goodbye 20th century,8.5,brent s. sirota
+1371,8085,amon tobin,out from out where,8.5,christopher dare
+1372,1223,john cale,sun blindness music,8.5,luke buckman
+1373,19684,the smashing pumpkins,adore,8.5,ian cohen
+1374,14512,the body,all the waters of the earth turn to blood,8.5,grayson currin
+1375,11660,various artists,the sound of philadelphia gamble and huffs greatest hits,8.5,nate patrin
+1376,3792,heavenly,heavenly vs satan,8.5,john dark
+1377,6141,panda bear,young prayer,8.5,mark richardson
+1378,9477,lou reed,coney island baby,8.5,stuart berman
+1379,11406,m83,saturdaysyouth,8.5,brian howe
+1380,5756,neu,neu 75,8.5,brent s. sirota
+1381,4777,jamie lidell,multiply,8.5,mark pytlik
+1382,16771,baroness,yellow and green,8.5,brandon stosuy
+1383,11202,titus andronicus,the airing of grievances,8.5,adam moerder
+1384,8761,wovenhand,consider the birds,8.5,brandon stosuy
+1385,8970,destroyer,destroyers rubies,8.5,matt lemay
+1386,19798,perfume genius,too bright,8.5,brandon stosuy
+1387,21476,david bowie,lodger,8.5,mike powell
+1388,22014,grace jones,warm leatherette,8.5,t. cole rachel
+1389,15723,grandaddy,the sophtware slump,8.5,mike powell
+1390,8862,ami yoshida,tiger thrush,8.5,dominique leone
+1391,7729,bruce springsteen,we shall overcome the seeger sessions,8.5,amanda petrusich
+1392,16877,blur,blur 21,8.5,lindsay zoladz
+1393,11268,the dodos,visiter,8.5,ian cohen
+1394,14446,rem,fables of the reconstruction,8.5,matthew perpetua
+1395,966,peter brtzmann william parker hamid drake,peter brotzmann,8.5,alexander lloyd linhardt
+1396,667,the beta band,to you alone,8.5,brent dicrescenzo
+1397,16854,tnght,tnght,8.5,larry fitzmaurice
+1398,3595,guided by voices,earthquake glue,8.5,eric carr
+1399,15790,the field,looping state of mind,8.5,jess harvell
+1400,10871,grizzly bear,friend,8.5,ryan schreiber
+1401,15522,sebadoh,bakesale,8.5,jess harvell
+1402,4738,ted leo and the pharmacists,the tyranny of distance,8.5,kristin sage rockermann & chip chanko
+1403,9557,clark,body riddle,8.5,ryan dombal
+1404,14513,walter gibbons,jungle music mixed with love essential and unreleased remixes 1976 1986,8.5,tal rosenberg
+1405,1494,the clean,anthology,8.5,joe tangari
+1406,22467,kate bush,before the dawn,8.5,laura snapes
+1407,6098,oakley hall,oakley hall,8.5,johnny loftus
+1408,20153,tobias jesso jr,goon,8.5,mark richardson
+1409,10940,mouthus,saw a halo,8.5,grayson currin
+1410,19984,brian eno jon hassell,fourth world vol 1 possible musics,8.5,aaron leitko
+1411,19356,various artists,hyperdub 101,8.5,larry fitzmaurice
+1412,2860,the ex,dizzy spells,8.5,spencer owen
+1413,748,black dice,beaches and canyons,8.5,mike bernstein
+1414,22055,bruce springsteen,the christic shows november 16 and 17 1990,8.5,sam sodomsky
+1415,5236,mercury rev,all is dream,8.5,brendan reid
+1416,21904,slum village,the fan tas tic box set,8.5,kris ex
+1417,2889,emperor,scattered ashes a decade of emperial wrath,8.5,dominique leone
+1418,6170,lewis parker,its all happening now,8.5,jascha hoffman
+1419,19717,bedhead,bedhead 1992 1998,8.5,mark richardson
+1420,21317,the velvet underground,the complete matrix tapes,8.5,douglas wolk
+1421,21619,john cale,music for a new society,8.5,stacey anderson
+1422,8205,20 minute loop,decline of day,8.5,camilo arturo leslie
+1423,11644,boscoe,boscoe,8.5,joe tangari
+1424,20947,harmonia,complete works,8.5,mark richardson
+1425,14294,robyn,body talk pt 1,8.5,marc hogan
+1426,14271,janelle mone,the archandroid,8.5,matthew perpetua
+1427,8238,asmus tietchens,biotop,8.5,dominique leone
+1428,21179,baroness,purple,8.5,brandon stosuy
+1429,14235,the jon spencer blues explosion,now i got worry,8.5,stuart berman
+1430,4132,catherine irwin,cut yourself a switch,8.5,brendan reid
+1431,16544,actress,rip,8.5,mike powell
+1432,14279,tame impala,innerspeaker,8.5,zach kelly
+1433,11943,dennis wilson,pacific ocean blue legacy edition,8.5,mike orme
+1434,3726,the handsome family,twilight,8.5,nathan rooney
+1435,12003,the pogues,just look them straight in the eye and saypoguemahone,8.5,stephen m. deusner
+1436,7311,the soft boys,underwater moonlight,8.5,sam eccleston
+1437,8836,yume bitsu,the golden vessyl of sound,8.5,mark richardson
+1438,9388,stereolab,serene velocity a stereolab anthology,8.5,nitsuh abebe
+1439,19407,soundgarden,superunknown,8.5,stuart berman
+1440,21970,mitski,puberty 2,8.5,jillian mapes
+1441,1157,the boy least likely to,the best party ever,8.5,marc hogan
+1442,21332,david bowie,blackstar,8.5,ryan dombal
+1443,17115,flying lotus,until the quiet comes,8.5,mark richardson
+1444,14241,male bonding,nothing hurts,8.5,nitsuh abebe
+1445,7349,sonic youth,goo,8.5,david raposa
+1446,19402,dj sprinkles,midtown 120 blues,8.5,andrew gaerig
+1447,22329,young thug,jeffery,8.5,sheldon pearce
+1448,17081,blut aus nord,777 cosmosophy,8.5,grayson currin
+1449,7161,silver jews,bright flight,8.5,nathan rooney
+1450,19302,ben frost,a u r o r a,8.5,brandon stosuy
+1451,2083,various artists,world psychedelic classics 3 loves a real thing the funky fuzzy sounds of west africa,8.5,joe tangari
+1452,22626,brand new,the devil and god are raging inside me,8.5,ian cohen
+1453,5143,mastodon,leviathan,8.5,isaiah violante
+1454,7027,schneider tm,zoomer,8.5,mark richardson
+1455,9581,the exploding hearts,shattered,8.5,matt lemay
+1456,16601,sleep,dopesmoker,8.5,grayson currin
+1457,21510,hop along,get disowned,8.5,ian cohen
+1458,7315,the soft pink truth,do you want new wave or do you want the soft pink truth,8.5,cameron macdonald
+1459,15476,nick cave and the bad seeds,let love in,8.5,stuart berman
+1460,11104,beck,odelay deluxe edition,8.5,ryan dombal
+1461,19884,modest mouse,this is a long drive for someone with nothing to think about,8.5,brian howe
+1462,20068,half japanese,music to strip by,8.4,marc masters
+1463,5429,alanis morissette,under rug swept,8.4,rob mitchum
+1464,20723,kronos quartet,one earth one people one love kronos plays terry riley,8.4,seth colter walls
+1465,7144,sightings,absolutes,8.4,andrew bryant
+1466,18058,peter jefferies,the last great challenge in a dull world,8.4,brandon stosuy
+1467,8319,ti,king,8.4,tom breihan
+1468,1247,mira calix,one on one,8.4,matt lemay
+1469,10127,dinosaur jr,beyond,8.4,zach baron
+1470,17949,king tuff,was dead,8.4,evan minsker
+1471,2988,fantomas,the directors cut,8.4,brendan reid
+1472,6354,,self titled long playing debut album,8.4,eric carr
+1473,1671,crooked fingers,crooked fingers,8.4,nick mirov
+1474,11324,the lemonheads,its a shame about ray,8.4,stephen m. deusner
+1475,2138,daft punk,musique vol 1,8.4,mark pytlik
+1476,18076,dirty beaches,drifters   love is the devil,8.4,larry fitzmaurice
+1477,10958,the honeydrips,here comes the future,8.4,marc hogan
+1478,1635,the court and spark,bless you,8.4,christopher f. schiel
+1479,11375,nick cave and the bad seeds,dig lazarus dig,8.4,stephen m. deusner
+1480,5733,need new body,need new body,8.4,jason nickey
+1481,9993,seefeel,quique redux edition,8.4,jess harvell
+1482,8772,world standard,the isle,8.4,andy beta
+1483,13339,delorean,ayrton senna,8.4,marc hogan
+1484,548,devendra banhart,rejoicing in the hands,8.4,dominique leone
+1485,16216,schoolboy q,habits and contradictions,8.4,jayson greene
+1486,1240,califone,deceleration one,8.4,joe tangari
+1487,6725,red stars theory,life in a bubble can be beautiful,8.4,steven byrd
+1488,18352,the clean,vehicle,8.4,ned raggett
+1489,20810,future,dirty sprite 2,8.4,meaghan garvey
+1490,6852,royal city,alone at the microphone,8.4,jason nickey
+1491,9208,girl talk,night ripper,8.4,sean fennessey
+1492,19871,pharmakon,bestial burden,8.4,larry fitzmaurice
+1493,15696,jrgen mller,science of the sea,8.4,nick neyland
+1494,18293,loftus,loftus,8.4,mark richardson
+1495,5046,mahogany,the dream of a modern day,8.4,ryan schreiber
+1496,18245,speedy ortiz,major arcana,8.4,lindsay zoladz
+1497,1291,capitol k,island row,8.4,malcolm seymour iii
+1498,15596,john maus,we must become the pitiless censors of ourselves,8.4,david bevan
+1499,19836,arca,xen,8.4,philip sherburne
+1500,15122,nicolas jaar,space is only noise,8.4,andrew gaerig
+1501,4136,isis,panopticon,8.4,brandon stosuy
+1502,10903,supersilent,8,8.4,chris dahlen
+1503,22057,maxwell,blacksummersnight,8.4,rebecca haithcoat
+1504,21597,parquet courts,human performance,8.4,jenn pelly
+1505,19,acid mothers temple,univers zen ou de zro zro,8.4,dominique leone
+1506,10946,enon,believo,8.4,jason crock
+1507,11179,los campesinos,hold on now youngster,8.4,marc hogan
+1508,3997,hall of fame,paradise now,8.4,matthew murphy
+1509,15576,iceage,new brigade,8.4,david bevan
+1510,865,boredoms,rebore vol 0 vision recreation,8.4,dominique leone
+1511,13215,oneida,rated o,8.4,jason crock
+1512,15567,wu lyf,go tell fire to the mountain,8.4,ian cohen
+1513,3360,nathan fake,drowning in a sea of love,8.4,mark pytlik
+1514,20021,andy stott,faith in strangers,8.4,grayson haver currin
+1515,10929,james brown,the singles volume four 1966 1967,8.4,douglas wolk
+1516,10877,burial,untrue,8.4,philip sherburne
+1517,11234,kelley polar,i need you to hold on while the sky is falling,8.4,mark pytlik
+1518,10969,bob marley and the wailers,exodus 30th anniversary edition,8.4,joshua klein
+1519,19891,ex hex,rips,8.4,aaron leitko
+1520,461,alog,miniatures,8.4,mark richardson
+1521,18103,these new puritans,field of reeds,8.4,laura snapes
+1522,11176,belong,colorloss record,8.4,mark richardson
+1523,5656,risn murphy,ruby blue,8.4,mark richardson
+1524,11066,times new viking,rip it off,8.4,jason crock
+1525,2842,the eternals,eternals,8.4,matt lemay
+1526,8799,wooden wand and the vanishing voice,gipsy freedom,8.4,mia lily clarke
+1527,1082,black forest black sea,forcefields and constellations,8.4,brandon stosuy
+1528,19248,ought,more than any other day,8.4,stuart berman
+1529,1994,various artists,nicky sianos the gallery,8.4,mark pytlik
+1530,18449,the dead c,armed courage,8.4,grayson currin
+1531,18845,luciano cilio,delluniverso assente,8.4,andy beta
+1532,7472,stars,set yourself on fire,8.4,sam ubl
+1533,3884,his name is alive,detrola,8.4,nitsuh abebe
+1534,3664,morgan geist,unclassics,8.4,mark pytlik
+1535,3243,fugazi,fugazi live series vol 1 september 3rd 1987,8.4,cameron macdonald
+1536,20529,young thug,barter 6,8.4,meaghan garvey
+1537,1023,burning airlines,mission control,8.4,brent dicrescenzo
+1538,12316,jay reatard,matador singles 08,8.4,david bevan
+1539,11928,ponytail,ice cream spiritual,8.4,mark richardson
+1540,6332,plaid,rest proof clockwork,8.4,ryan schreiber
+1541,10382,los campesinos,sticking fingers into sockets,8.4,marc hogan
+1542,4786,lightning bolt,wonderful rainbow,8.4,julianne escobedo shepherd
+1543,1843,various artists,all tomorrows parties v11,8.4,kevin adickes
+1544,3528,gorkys zygotic mynci,how i long to feel that summer in my heart,8.4,nathan rooney
+1545,22156,jamila woods,heavn,8.4,kris ex
+1546,737,bjork,medulla,8.4,dominique leone
+1547,8669,the who,bbc sessions,8.4,chip chanko
+1548,18940,uncle tupelo,no depression legacy edition,8.4,amanda petrusich
+1549,22300,kaitlyn aurelia smith suzanne ciani,sunergy,8.4,jenn pelly
+1550,12413,q tip,the renaissance,8.4,nate patrin
+1551,2509,drive by truckers,the dirty south,8.4,stephen m. deusner
+1552,6346,pleasure forever,alter,8.4,amanda petrusich
+1553,955,broken social scene,broken social scene,8.4,ryan dombal
+1554,7419,spiritualized,let it come down,8.4,ryan kearney
+1555,10646,baroness,red album,8.4,grayson currin
+1556,12435,amadou and mariam,welcome to mali,8.4,joe tangari
+1557,703,bonnie prince billy and matt sweeney,superwolf,8.4,amanda petrusich
+1558,2946,john fahey,old fashioned love,8.4,andy beta
+1560,20329,tribulation,the children of the night,8.4,grayson haver currin
+1561,21849,white lung,paradise,8.4,laura snapes
+1562,10633,napalm death,scum 20th anniversary edition,8.4,brandon stosuy
+1563,11963,wale,the mixtape about nothing,8.4,jayson greene
+1564,5771,the new pornographers,mass romantic,8.4,richard m. juzwiak
+1565,19245,songs ohia,journey on collected singles,8.4,stephen m. deusner
+1566,12090,scott walker,til the band comes in,8.4,scott plagenhoef
+1567,1058,the byrds,the essential byrds,8.4,joe tangari
+1568,3455,m gira d matz,what we did,8.4,daphne carr
+1569,19312,lykke li,i never learn,8.4,ian cohen
+1570,10541,ugk,underground kingz,8.4,tom breihan
+1571,10595,a place to bury strangers,a place to bury strangers,8.4,marc hogan
+1572,11987,the hold steady,stay positive,8.4,jason crock
+1573,21918,miles davis,the complete prestige 10 inch lp collection,8.4,michael j. agovino
+1574,15369,dj quik,the book of david,8.4,jayson greene
+1575,5074,manic street preachers,the holy bible,8.4,joe tangari
+1576,246,appendix out,daylight saving,8.4,neil lieberman
+1577,6731,lou reed,transformer,8.4,matthew stephens
+1578,8107,jenny toomey,antidote,8.4,daphne carr
+1579,4878,love as laughter,sea to shining sea,8.4,alison fields
+1580,15343,cass mccombs,wits end,8.4,ryan dombal
+1581,12198,john adams,a flowering tree,8.4,jayson greene
+1582,6909,arthur russell,world of echo,8.4,cameron macdonald
+1583,9946,arcade fire,neon bible,8.4,stephen m. deusner
+1584,3130,fog,ether teeth,8.4,amanda petrusich
+1585,2567,dill,wyhiwyg,8.4,dominique leone
+1586,20382,kmd,black bastards,8.4,kris ex
+1587,15873,youth lagoon,the year of hibernation,8.4,mark richardson
+1588,18962,thou,heathen,8.4,kim kelly
+1589,12502,fennesz,black sea,8.4,mark richardson
+1590,2376,dj shadow,live in tune and on time,8.4,jonathan zwickel
+1591,6913,ratatat,ratatat,8.4,loren ludwig & jascha hoffman
+1592,20505,cecil taylor,the complete cecil taylor in berlin 88,8.4,seth colter walls
+1593,1192,david thomas broughton,the complete guide to insufficiency,8.4,brandon stosuy
+1594,5676,mylo,destroy rock and roll,8.4,nitsuh abebe
+1595,18669,mutual benefit,loves crushing diamond,8.4,ian cohen
+1596,2358,dj food,solid steel presents now listen,8.4,david m. pecoraro
+1597,801,the blithe sons,we walk the young earth,8.4,brandon stosuy
+1598,11481,various artists,soul messages from dimona,8.4,joe tangari
+1599,12708,rokia traor,tchamantch,8.4,joshua klein
+1600,1176,david banner,certified,8.4,julianne escobedo shepherd
+1601,22173,elza soares,a mulher do fim do mundo,8.4,philip sherburne
+1602,9131,the diableros,you cant break the strings in our olympic hearts,8.4,sam ubl
+1603,15236,nick lowe,labour of lust,8.4,david bevan
+1604,21722,terry reid,the other side of the river,8.4,cameron cook
+1605,3668,a gun called tension,a gun called tension,8.4,stephen m. deusner
+1606,3785,lee hazlewood,requiem for an almost lady,8.4,mark richard-san
+1607,4504,koenjihyakkei,nivraym,8.4,dominique leone
+1608,7338,songs ohia,didnt it rain,8.4,christopher dare
+1609,4547,fela kuti,the underground spiritual game,8.4,liam singer
+1610,18537,oneohtrix point never,r plus seven,8.4,mark richardson
+1611,6760,req,sketchbook,8.4,mark richard-san
+1612,4164,isole,we are monster,8.4,nick sylvester
+1613,10230,kalabrese,rumpelzirkus,8.4,philip sherburne
+1614,22593,various artists,bobo yy belle poque in upper volta,8.4,andy beta
+1615,8431,moreno veloso 2,music typewriter,8.4,joe tangari
+1616,11363,orchestral manoeuvres in the dark,dazzle ships,8.4,tom ewing
+1617,15174,kurt vile,smoke ring for my halo,8.4,david bevan
+1618,19694,kenny dope,wild style breakbeats,8.4,nate patrin
+1619,12822,richard buckner,bloomed,8.4,brian howe
+1620,18603,the beta band,the regal years 1997 2004,8.4,stuart berman
+1621,10321,justice,cross,8.4,jess harvell
+1622,12648,ocean,pantheon of the lesser,8.4,grayson currin
+1623,4681,jon langford,all the fame of lofty deeds,8.4,stephen m. deusner
+1624,10353,bowerbirds,hymns for a dark horse,8.4,amanda petrusich
+1625,3909,holopaw,quit  or fight,8.4,amanda petrusich
+1626,5623,magma,ka,8.4,dominique leone
+1627,11569,spiritualized,songs in ae,8.4,mike mcgonigal
+1628,8099,tomahawk,mit gas,8.4,scott hreha
+1629,20620,nao,february 15,8.4,meaghan garvey
+1630,16062,sepalcure,sepalcure,8.4,andrew gaerig
+1631,18658,various artists,purple snow forecasting the minneapolis sound,8.4,nate patrin
+1632,10345,simian mobile disco,attack decay sustain release,8.4,jess harvell
+1633,15493,suede,suede,8.4,joe tangari
+1634,1112,philippe besombes,libra,8.4,alex linhardt
+1635,19434,craig leon,anthology of interplanetary folk music vol 1 nommos visiting,8.4,lindsay zoladz
+1636,18779,death grips,government plates,8.4,ian cohen
+1637,9064,nomo,new tones,8.4,joe tangari
+1638,8011,third eye foundation,i poo poo on your juju,8.4,christopher dare
+1639,12592,johnsonjonson,johnsonjonson,8.4,nate patrin
+1640,21799,bill evans,some other time the lost session from the black forest,8.4,mark richardson
+1641,12567,jd twitch,mx6 twitchs 60 minutes of fear,8.4,philip sherburne
+1642,7337,songs ohia,mi sei apparso come un fantasma,8.4,jason nickey
+1643,12629,james brown,the singles vol 6 1969 1970,8.4,douglas wolk
+1644,10309,dizzee rascal,maths  english,8.4,nate patrin
+1645,2912,excepter,ka,8.4,dominique leone
+1646,18656,death cab for cutie,transatlanticism,8.4,ian cohen
+1647,10743,black kids,wizard of ahhhs,8.4,marc hogan
+1648,3600,guided by voices,bee thousand the directors cut,8.4,eric carr
+1649,12644,the pains of being pure at heart,the pains of being pure at heart,8.4,ian cohen
+1650,20691,beach house,depression cherry,8.4,jayson greene
+1651,8822,the jim yoshii pile up xiu xiu,insound tour support,8.4,matt lemay
+1652,13618,bear in heaven,beast rest forth mouth,8.4,eric harvey
+1653,14164,alcest,cailles de lune,8.4,grayson currin
+1654,21461,lee hazlewood,the very special world of lee hazlewood,8.4,winston cook-wilson
+1655,7620,superchunk,cup of sand,8.4,eric carr
+1656,14472,best coast,crazy for you,8.4,larry fitzmaurice
+1657,20840,kurt vile,blieve im goin down,8.4,mark richardson
+1658,9244,the pipettes,we are the pipettes,8.4,scott plagenhoef
+1659,1243,califone,heron king blues,8.4,amanda petrusich
+1660,17688,waxahatchee,cerulean salt,8.4,lindsay zoladz
+1661,1989,various artists,new york noise,8.4,andy beta
+1662,2524,the darkness,permission to land,8.4,scott plagenhoef
+1663,9801,pulp,the peel sessions,8.4,stephen trouss
+1664,4226,philip jeck,stoke,8.4,mark richardson
+1665,9814,various artists,a life less lived the gothic box,8.4,nitsuh abebe
+1666,14147,delorean,subiza,8.4,andrew gaerig
+1667,17174,bat for lashes,the haunted man,8.4,marc hogan
+1668,14157,caribou,swim,8.4,larry fitzmaurice
+1669,21231,arca,mutant,8.4,mark richardson
+1670,21580,moodymann,dj kicks,8.4,andy beta
+1671,14474,curreny,pilot talk,8.4,tom breihan
+1672,9661,tom waits,orphans brawlers bawlers and bastards,8.4,rob mitchum
+1673,1743,colleen,everyone alive wants answers,8.4,rob mitchum
+1674,14805,kylesa,spiral shadow,8.4,jess harvell
+1675,855,the books,the lemon of pink,8.4,mark richardson
+1676,20825,julia holter,have you in my wilderness,8.4,winston cook-wilson
+1677,3271,the fiery furnaces,gallowsbirds bark,8.4,amanda petrusich
+1678,3974,the homosexuals,the homosexuals cd,8.4,dominique leone
+1679,2314,the dillinger escape plan mike patton,irony is a dead scene,8.4,brad haywood
+1680,6689,randominc,walking in jerusalem,8.4,mark richardson
+1681,8874,susumu yokota,sakura,8.4,mark richard-san
+1682,11835,super furry animals,fuzzy logic,8.4,marc hogan
+1683,1721,cyann and ben,spring,8.4,nick sylvester
+1684,13533,elvis costello,live at the el mocambo,8.4,stephen m. deusner
+1685,9638,rock plaza central,are we not horses,8.4,stephen m. deusner
+1686,17125,miguel,kaleidoscope dream,8.4,andrew ryce
+1687,16851,purity ring,shrines,8.4,mark richardson
+1688,9294,im from barcelona,let me introduce my friends,8.4,marc hogan
+1689,16844,passion pit,gossamer,8.4,ian cohen
+1690,16886,various artists,country funk 1969 1975,8.4,stephen m. deusner
+1691,13483,the mountain goats,the life of the world to come,8.4,mike powell
+1692,11763,jackie o motherfucker,wow   the magick fire music,8.4,andy beta
+1693,14675,twin shadow,forget,8.4,liz colville
+1694,9613,the drones,gala mill,8.4,brandon stosuy
+1695,8760,wovenhand,blush music,8.4,brandon stosuy
+1696,6306,pinetop seven,the nights bloom,8.4,stephen m. deusner
+1697,17736,justin timberlake,the 20 20 experience,8.4,ryan dombal
+1698,16833,john maus,a collection of rarities and previously unreleased material,8.4,jenn pelly
+1699,5278,migala,restos de un incendio,8.4,joe tangari
+1700,15016,smith westerns,dye it blonde,8.4,david bevan
+1701,16304,frankie rose,interstellar,8.4,jayson greene
+1702,4170,islands,return to the sea,8.4,john motley
+1703,5718,the national,sad songs for dirty lovers,8.4,brandon stosuy
+1704,2493,duster,contemporary movement,8.4,mark richard-san
+1705,7667,swervedriver,juggernaut rides,8.4,david raposa
+1706,16335,perfume genius,put your back n 2 it,8.4,larry fitzmaurice
+1707,4625,mike ladd,father divine,8.4,joe tangari
+1708,21110,floating points,elaenia,8.4,philip sherburne
+1709,5654,major stars,syntoptikon,8.4,zach baron
+1710,13878,charlotte gainsbourg,irm,8.4,ryan dombal
+1711,13968,gonjasufi,a sufi and a killer,8.4,nate patrin
+1712,21100,various artists,diy,8.4,douglas wolk
+1713,7926,tanakh,villa claustrophobia,8.4,mark richard-san
+1714,9717,opeth,ghost reveries,8.4,brandon stosuy
+1715,16333,archers of loaf,vee vee,8.4,andrew gaerig
+1716,9472,the decemberists,the crane wife,8.4,stephen m. deusner
+1717,13908,hot chip,one life stand,8.4,scott plagenhoef
+1718,965,the peter brotzmann sextet,nipples,8.4,zach hooker
+1719,17430,charles mingus,the jazz workshop concerts 196465,8.4,hank shteamer
+1720,17326,the heartbreakers,lamf definitive edition,8.4,evan minsker
+1722,17498,burial,truant   rough sleeper,8.4,mark richardson
+1723,16345,pallbearer,sorrow and extinction,8.4,brandon stosuy
+1724,13925,local natives,gorilla manor,8.4,ian cohen
+1725,17552,foxygen,we are the 21st century ambassadors of peace and magic,8.4,jayson greene
+1726,6173,william parker,raining on the moon,8.4,chris dahlen
+1727,3382,galaxie 500,peel sessions,8.4,mark richardson
+1728,21527,anna meredith,varmints,8.4,laura snapes
+1729,3190,freestyle fellowship,shockadoom,8.4,sam chennault
+1730,9285,mew,and the glass handed kites,8.4,nitsuh abebe
+1731,3081,the flaming lips,yoshimi battles the pink robots,8.4,will bryant
+1732,2895,elephant man,good 2 go,8.4,rollie pemberton
+1733,553,devendra banhart,cripple crow,8.4,brandon stosuy
+1735,13728,elbow,asleep in the back,8.4,ian cohen
+1736,11770,knife in the water,plays one sound and others,8.4,andy beta
+1737,7471,stars,heart,8.4,rob mitchum
+1738,13759,various artists,fire in my bones raw  rare  otherworldly african american gospel 1944 2007,8.4,stephen m. deusner
+1739,2451,the dresden dolls,a is for accident,8.4,michael idov
+1740,14533,matthew dear,black city,8.4,joe colly
+1741,7702,so,so,8.4,mark richardson
+1742,13774,james brown,the singles vol 8 1972 1973,8.4,douglas wolk
+1743,22669,rem,out of time,8.4,evan rytlewski
+1744,13809,ben frost,by the throat,8.4,grayson currin
+1745,21039,deerhunter,fading frontier,8.4,ian cohen
+1746,13793,gucci mane,the burrprint the movie 3 d,8.4,tom breihan
+1747,5646,maximo park,a certain trigger,8.4,sam ubl
+1748,21685,cobalt,slow forever,8.4,grayson haver currin
+1749,14903,forest swords,dagger paths,8.4,marc masters
+1750,192,animal collective vashti bunyan,prospect hummer,8.4,mark richardson
+1751,2937,dominik eulberg,kreucht and fleucht,8.4,philip sherburne
+1752,17046,how to dress well,total loss,8.4,ian cohen
+1753,2899,espers,espers,8.4,hartley goldstein
+1754,274,arab strap,elephant shoe,8.4,paul cooper
+1755,15040,esg,dance to the best of esg,8.4,joe tangari
+1756,6456,sam prekop,whos your new professor,8.4,nitsuh abebe
+1757,14415,wavves,king of the beach,8.4,ian cohen
+1758,16261,goldfrapp,the singles,8.4,matthew perpetua
+1759,7314,the soft pink truth,do you party,8.4,dominique leone
+1760,18049,rem,green 25th anniversary deluxe edition,8.4,stephen m. deusner
+1761,14738,sufjan stevens,the age of adz,8.4,ryan dombal
+1762,11817,resplendent,wings beneath the sills casket city wolves,8.4,joe tangari
+1763,4236,jan jelinek computer soup,improvisations and edits tokyo 26092001,8.4,mark richardson
+1764,6213,pedro the lion,the only reason i feel secure,8.4,zach hooker
+1765,9573,jean claude vannier,lenfant assasin des mouches,8.4,matthew murphy
+1766,5274,microwaves,system 2,8.4,jason nickey
+1767,9559,lindstrm,its a feedelity affair,8.4,tim finney
+1768,15059,various artists,baby how can it be songs of love lust and contempt from the 1920s and 1930s,8.4,stephen m. deusner
+1769,16432,lotus plaza,spooky action at a distance,8.4,ian cohen
+1770,13382,wild beasts,two dancers,8.4,stuart berman
+1771,5732,need new body,ufo,8.4,matt lemay
+1772,14818,supersilent,10,8.4,brian howe
+1773,18105,chance the rapper,acid rap,8.4,jeff weiss
+1774,1374,centaur,in streams,8.4,isaiah violante
+1775,14367,drake,thank me later,8.4,ryan dombal
+1776,17003,the books,a dot in time,8.4,mark richardson
+1777,9911,various artists,jonny greenwood is the controller,8.4,joshua klein
+1778,17847,the knife,shaking the habitual,8.4,lindsay zoladz
+1779,17959,mikal cronin,mcii,8.4,evan minsker
+1780,18030,the national,trouble will find me,8.4,ian cohen
+1781,11777,mclusky,mcluskyism,8.4,matt lemay
+1782,21345,albert ayler,bells prophecy,8.4,mark richardson
+1783,16390,the shins,port of morrow,8.4,larry fitzmaurice
+1784,5185,mclusky,mclusky do dallas,8.4,chris dahlen
+1785,4125,iron and wine,the sea and the rhythm,8.4,jascha hoffman
+1786,7056,the secret machines,september 000,8.4,ryan schreiber
+1787,5068,mat maneri joe mcphee,sustain,8.4,chris dahlen
+1788,4598,kano,home sweet home,8.4,ryan dombal
+1789,17705,goldie,the alchemist the best of goldie 1992 2012,8.4,miles raymer
+1790,14053,motor city drum ensemble,raw cuts vol 1,8.3,andrew gaerig
+1791,8071,tindersticks,waiting for the moon,8.3,joe tangari
+1792,10754,white williams,smoke,8.3,eric harvey
+1793,744,black cat music,hands in the estuary torso in the lake,8.3,daphne carr
+1794,11672,sun kil moon,april,8.3,stephen m. deusner
+1795,14532,shangaan electro,new wave dance music from south africa,8.3,andy battaglia
+1796,11707,cristina,doll in the box,8.3,brandon stosuy
+1797,8877,susumu yokota,laputa,8.3,liam singer
+1798,11915,james blackshaw,litany of echoes,8.3,joe tangari
+1799,7668,rob swift,sound event,8.3,sam chennault
+1800,12375,arthur russell,love is overtaking me,8.3,mia clarke
+1801,9443,the byrds,there is a season,8.3,joe tangari
+1802,4896,low,one more reason to forget,8.3,pete nicholson
+1803,12378,jean grae,jeanius,8.3,nate patrin
+1804,19421,tombs,savage gold,8.3,grayson haver currin
+1805,12275,department of eagles,in ear park,8.3,amanda petrusich
+1806,6632,racebannon,satans kickin yr dick in,8.3,chris dahlen
+1807,14011,fang island,fang island,8.3,ian cohen
+1808,3280,franz ferdinand,you could have it so much better with franz ferdinand,8.3,nitsuh abebe
+1809,9449,mercury rev,the essential mercury rev stillness breathes 1991 2006,8.3,stuart berman
+1810,12292,mount eerie with julie doiron and fred squire,lost wisdom,8.3,matthew solarski
+1811,3033,fennesz,field recordings 1995 2002,8.3,mark richardson
+1812,3245,satoko fujii quartet,vulcan,8.3,dominique leone
+1813,10678,les savy fav,lets stay friends,8.3,matt lemay
+1814,20305,loren connors,blues the dark paintings of mark rothko,8.3,grayson haver currin
+1815,18956,angel olsen,burn your fire for no witness,8.3,lindsay zoladz
+1816,4909,the lucksmiths,warmer corners 2005,8.3,marc hogan
+1817,4319,juno,this is the way it goes and goes and goes,8.3,brent dicrescenzo
+1818,2441,bob drake,13 songs and a thing,8.3,dominique leone
+1819,1284,cannibal ox,the cold vein,8.3,christopher dare
+1820,14033,the method actors,this is still it,8.3,andy battaglia
+1821,22238,various artists,desconstruo,8.3,andy beta
+1822,21871,whitney,light upon the lake,8.3,matthew schnipper
+1823,18867,aztec camera,high land hard rain,8.3,jason heller
+1824,12272,marnie stern,this is it and i am it and you are it and so is that and he is it and she is it and it is it and that is that,8.3,mike powell
+1825,3480,the go betweens,that striped sunlight sound,8.3,rachel khong
+1826,21846,prince the new power generation,diamonds and pearls,8.3,jeff weiss
+1827,14317,laurie anderson,homeland,8.3,brian howe
+1828,13963,yellow swans,going places,8.3,marc masters
+1829,713,andrew bird,weather systems,8.3,joe tangari
+1830,245,appendix out,the night is advancing,8.3,matt lemay
+1831,5835,tujiko noriko,from tokyo to naiagara,8.3,nitsuh abebe
+1832,3619,gza,legend of the liquid sword,8.3,sam chennault
+1833,5531,my morning jacket,it still moves,8.3,joe tangari
+1834,7107,shellac,1000 hurts,8.3,matt lemay
+1835,2252,deerhoof,apple o,8.3,eric carr
+1836,10708,shocking pinks,shocking pinks,8.3,marc hogan
+1837,11555,paavoharju,laulu laakson kukista,8.3,andrew gaerig
+1838,12424,los campesinos,we are beautiful we are doomed,8.3,marc hogan
+1839,19466,mogwai,come on die young,8.3,stuart berman
