@@ -12,4 +12,4 @@ The results of the analysis are summarized in the following notebooks:
 * song-analysis.ipynb - analyzes data at the song level
 * aggregate-album-analysis.ipynb - analyzes data aggregated at the album level
 
-Also, please take a look at the Medium article I wrote to accompany this analysis and give it some claps - Audio Analysis: How to Impress (or Disappoint) Pitchfork.  
+Also, please take a look at the Medium article I wrote to accompany this analysis and give it some claps - [Audio Analysis: How to Impress (or Disappoint) Pitchfork](https://medium.com/@scottmduda/audio-analysis-how-to-impress-or-disappoint-pitchfork-c48167c60e96).  
